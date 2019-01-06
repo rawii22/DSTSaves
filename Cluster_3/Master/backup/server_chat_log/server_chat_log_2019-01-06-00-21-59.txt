@@ -1,0 +1,6 @@
+[00:05:33]: [Join Announcement] rawii22
+[00:08:59]: [Join Announcement] albertoromañach
+[00:13:56]: [Say] (KU_GWmhv7ol) rawii22: -g 2
+[00:14:03]: [Say] (KU_GWmhv7ol) rawii22: -g 2
+[00:28:49]: [Leave Announcement] albertoromañach
+[00:28:54]: [Leave Announcement] rawii22
