@@ -1,0 +1,651 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 51%
+	Available Physical Memory: 7956m/16260m
+	Available Page File: 8424m/21892m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 263k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Thu Jan 03 01:28:25 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3366554
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (30856)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip skipped.
+[00:00:01]: ProfileIndex:4.11
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (16088)
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (53232)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198214670708
+[00:00:01]: SteamID: 76561198214670708
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2601
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 520
+    driverDate                20161024000000.000000-000
+    megsOfRam                 1024
+    refreshRate               60
+    videoModeDescription      3840 x 2160 x 4294967296 colors
+    driverVersion             21.20.16.4542
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 3840,2160 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 16 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:01]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:01]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:01]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: WindowManager::SetFullscreen(0, 3840, 2160, 60)
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: THREAD - started 'WindowsInputManager' (2880)
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (Intel(R) HD Graphics 520)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: AnimManager initialize: Okay
+[00:00:03]: Buffers initialize: Okay
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:04]: Ping measurement completed
+[00:00:04]: Ping location: atl=12+1,ord=20+2,iad=26+2/25+1,okc=35+3,lax=65+6/56+1,sea=73+7/64+2,mwh=76+7/72+2,lhr=99+9/97+1,ams=107+10/103+1,fra=110+11/115+1,gru=172+17,sgp=243+24/239+17
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:05]: ModIndex: Beginning normal load sequence.
+	
+[00:00:05]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:00:06]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:06]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-345693021	
+[00:00:06]: Loading mod: workshop-345693021 (Better Console) Version:2.0.1	
+[00:00:06]: Mod: workshop-345693021 (Better Console)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-345693021 (Better Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-345693021 (Better Console)	Loading modmain.lua	
+[00:00:06]: modimport: ../mods/workshop-345693021/configurable.lua	
+[00:00:06]: (Better Console) Unable to load config.lua (does it exist?)	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:11]: PlayerDeaths loaded morgue	5664	
+[00:00:11]: PlayerHistory loaded player_history (v2) len:2160	
+[00:00:11]: ServerPreferences loaded server_preferences	2	
+[00:00:11]: bloom_enabled	false	
+[00:00:11]: loaded saveindex	
+[00:00:11]: OnFilesLoaded()	
+[00:00:11]: OnUpdatePurchaseStateComplete	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:21]: Mod: workshop-345693021 (Better Console)	Registering prefabs	
+[00:00:21]: Mod: workshop-345693021 (Better Console)	  Registering default mod prefab	
+[00:00:21]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:21]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:21]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:21]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:21]: 	Load FE	
+[00:00:26]: 	Load FE: done	
+[00:00:26]: THREAD - started 'FilesExistAsyncThread' (24256)
+[00:00:26]: FilesExistAsyncThread started (19890 files)...
+[00:00:26]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:26]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:26]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:26]: [MOTD] Downloading info	
+[00:00:26]: SimLuaProxy::QueryServer()
+[00:00:26]: ModIndex: Load sequence finished successfully.	
+[00:00:26]: Reset() returning
+[00:00:28]: [MOTD] Downloading image for box1
+[00:00:30]: [MOTD] Done Loading.	
+[00:00:30]: [Steam] Auth Session Ticket requested...
+[00:00:31]: [Steam] Got Auth Session Ticket
+[00:00:32]: [200] Account Communication Success (3)
+[00:00:32]: Logging in as KU_GWmhv7ol
+[00:00:32]: There is no active event to get the status of.
+[00:00:32]: loaded inventory_cache_prod
+[00:00:32]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:00:32]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:00:35]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:36]: Friends are currently playing in 1 games(s)!
+[00:00:36]: You belong to 7 clan(s)!
+[00:00:36]: Downloaded server listings - chunk 0 (US): 1137 filtered completed: 555
+[00:00:36]: Downloaded server listings - chunk 1 (EU): 681 filtered completed: 1037
+[00:00:36]: Downloaded server listings - chunk 2 (Sing): 684 filtered completed: 1448
+[00:00:37]: Downloaded server listings - chunk 3 (China): 1573 filtered completed: 2666
+[00:00:37]: Downloaded server listings - chunk 4: 116 filtered completed: 2775
+[00:00:47]: [Connect] Got new join server request from lua
+[00:00:47]: [Connect] Init client connection to (S) <796084707923307045>
+[00:00:47]: [Connect] PendingConnection::Reset(true)
+[00:00:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:47]: [Connect] InternalInitClient <3874049872076684427>
+[00:00:47]: [Shard] Starting shard mode as player
+[00:00:47]: [Connect] Starting online connection to 66.128.241.155|10999
+[00:00:47]: [Connect] Server name: [Ricky] wow
+[00:00:47]: [200] Account Communication Success (13)
+[00:00:47]: [Connect] Sending ping(s)...
+[00:00:47]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:47]: [P2P] Create session: 83.45.15.250|1 '76561198246628238'
+[00:00:47]: [Connect] Punchthrough address is 83.45.15.250|1.
+[00:00:47]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:47]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:47]: [P2P] Sent to 83.45.15.250|1 '76561198246628238'
+[00:00:47]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:47]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:48]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:48]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:48]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:48]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:48]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:48]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:48]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:48]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:48]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:48]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:49]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:49]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:49]: [Connect] DirectConnect Ping 66.128.241.155|10999
+[00:00:49]: [Connect] Punchthrough Ping 83.45.15.250|1
+[00:00:51]: [P2P] Received from 83.45.15.250|1 '76561198246628238'
+[00:00:51]: [Connect] Ping response from 83.45.15.250|1
+[00:00:51]: [Connect] Joining server from ping response (silent)...
+[00:00:51]: [Connect] PendingConnectionDoConnect to 83.45.15.250|1
+[00:00:51]: [Connect] DirectConnect to 83.45.15.250|1
+[00:00:51]: Connection accepted to 83.45.15.250|1 <796084707923307045>
+[00:00:51]: Network external address discovered: 39.98.62.93|1
+[00:00:51]: SendClientHandShakePacket to <796084707923307045>
+[00:00:52]: DeserializeHandShakeServerListing
+[00:00:52]: Network tick rate: U=10(3), D=15
+[00:00:52]: Platform: 1
+[00:00:52]: Version: 298000
+[00:00:52]: SendClientInventoryHandShakePacket to <796084707923307045>
+[00:00:52]: Begin Session: 57A77BAD9BD4E3CC
+[00:00:53]: Done Downloading Client Object Data
+[00:00:53]: DownloadMods and temp disable	
+[00:00:53]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:53]: We now have the required mods, enable them for server	
+[00:00:53]: Temp Enabling workshop-816057392	
+[00:00:53]: Temp Enabling workshop-375859599	
+[00:00:53]: Temp Enabling PrefabIDConcatenator	
+[00:00:53]: Temp Enabling workshop-458940297	
+[00:00:53]: ModIndex:SetTempModConfigData	
+[00:00:53]: Setting temp mod config for mod 	workshop-458940297	
+[00:00:53]: Setting temp mod config for mod 	workshop-816057392	
+[00:00:53]: Setting temp mod config for mod 	PrefabIDConcatenator	
+[00:00:53]: Setting temp mod config for mod 	workshop-375859599	
+[00:00:53]: Mods are setup for server, save the mod index and proceed.	
+[00:00:53]: Downloading [0] From: server_temp
+[00:00:54]: 0 (36%) 1/1 server_temp\server_save 114000b / 314051b
+[00:00:54]: 0 (72%) 1/1 server_temp\server_save 228000b / 314051b
+[00:00:54]: 0 (100%) 1/1 server_temp\server_save 314051b / 314051b
+[00:00:54]: Download complete[0] Files: 1 Size: 314051
+[00:00:54]: Collecting garbage...
+[00:00:54]: lua_gc took 0.10 seconds
+[00:00:54]: ~ShardLuaProxy()
+[00:00:54]: ~cEventLeaderboardProxy()
+[00:00:54]: ~ItemServerLuaProxy()
+[00:00:54]: ~InventoryLuaProxy()
+[00:00:54]: ~NetworkLuaProxy()
+[00:00:54]: ~SimLuaProxy()
+[00:00:54]: Cancelling LuaQueryCallback handle [11]
+[00:00:54]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:54]: FilesExistAsyncThread aborted.
+[00:00:54]: ... FilesExistAsyncThread complete
+[00:00:54]: lua_close took 0.09 seconds
+[00:00:54]: ReleaseAll
+[00:00:54]: ReleaseAll Finished
+[00:00:54]: cGame::StartPlaying
+[00:00:54]: LOADING LUA
+[00:00:54]: DoLuaFile scripts/main.lua
+[00:00:54]: DoLuaFile loading buffer scripts/main.lua
+[00:00:54]:   taskgrouplist:	default	Together	
+[00:00:54]:   taskgrouplist:	classic	Classic	
+[00:00:54]:   taskgrouplist:	cave_default	Underground	
+[00:00:54]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:54]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:54]: running main.lua
+	
+[00:00:54]: unloading prefabs for mod MOD_workshop-345693021	
+[00:00:54]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:00:54]: loaded modindex	
+[00:00:54]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:55]: ModIndex: Beginning normal load sequence.
+	
+[00:00:55]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:00:55]: Could not load mod_config_data/modconfiguration_PrefabIDConcatenator_CLIENT	
+[00:00:55]: Loading mod: PrefabIDConcatenator (Prefab ID Concatenator) Version:1.0	
+[00:00:55]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:55]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:55]: Could not load mod_config_data/modconfiguration_workshop-345693021	
+[00:00:55]: Loading mod: workshop-345693021 (Better Console) Version:2.0.1	
+[00:00:55]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:55]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:55]: Could not load mod_config_data/modconfiguration_workshop-458940297_CLIENT	
+[00:00:55]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:55]: Could not load mod_config_data/modconfiguration_workshop-816057392_CLIENT	
+[00:00:55]: Loading mod: workshop-816057392 (Combined Status Server Version) Version:1.6.14	
+[00:00:55]: Mod: workshop-345693021 (Better Console)	Loading modworldgenmain.lua	
+[00:00:55]: Mod: workshop-345693021 (Better Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: workshop-345693021 (Better Console)	Loading modmain.lua	
+[00:00:55]: modimport: ../mods/workshop-345693021/configurable.lua	
+[00:00:55]: (Better Console) Unable to load config.lua (does it exist?)	
+[00:00:55]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:55]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:55]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:55]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:55]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:55]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modworldgenmain.lua	
+[00:00:55]: Mod: workshop-816057392 (Combined Status Server Version)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modmain.lua	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:00:55]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:55]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:55]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Loading modworldgenmain.lua	
+[00:00:55]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:55]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Loading modmain.lua	
+[00:00:55]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:55]: LOADING LUA SUCCESS
+[00:00:55]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:56]: PlayerDeaths loaded morgue	5664	
+[00:00:56]: PlayerHistory loaded player_history (v2) len:2160	
+[00:00:56]: ServerPreferences loaded server_preferences	2	
+[00:00:56]: bloom_enabled	false	
+[00:00:56]: loaded saveindex	
+[00:00:56]: OnFilesLoaded()	
+[00:00:56]: OnUpdatePurchaseStateComplete	
+[00:00:56]: Loading world: client_temp/server_save	
+[00:00:56]: Save file is at version 4.77	
+[00:00:56]: Klump load on boot started.	
+[00:00:56]: Klump files loaded: 	0	
+[00:00:56]: 	Unload FE	
+[00:00:56]: 	Unload FE done	
+[00:01:11]: Mod: workshop-345693021 (Better Console)	Registering prefabs	
+[00:01:11]: Mod: workshop-345693021 (Better Console)	  Registering default mod prefab	
+[00:01:11]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:01:11]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:01:11]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:01:11]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:01:11]: Mod: workshop-816057392 (Combined Status Server Version)	Registering prefabs	
+[00:01:11]: Mod: workshop-816057392 (Combined Status Server Version)	  Registering default mod prefab	
+[00:01:11]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:01:11]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:01:11]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:01:11]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:01:11]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Registering prefabs	
+[00:01:11]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	  Registering default mod prefab	
+[00:01:11]: 	LOAD BE	
+[00:01:15]: 	LOAD BE: done	
+[00:01:16]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:16]: MiniMapComponent::AddAtlas( ../mods/Quantum-Chest/minimap/treasurechest_quantum.xml )
+[00:01:16]: Loading 12 new character(s)	
+[00:01:17]: Total 12 character(s) loaded	
+[00:01:17]: Loading Nav Grid	
+[00:01:17]: setting 	summerlength	0	
+[00:01:17]: setting 	isnightmaredawn	false	
+[00:01:17]: setting 	elapseddaysinseason	969	
+[00:01:17]: setting 	isfullmoon	false	
+[00:01:17]: setting 	moisture	3656.2648925781	
+[00:01:17]: setting 	springlength	20	
+[00:01:17]: setting 	isnightmarewild	false	
+[00:01:17]: setting 	moonphase	quarter	
+[00:01:17]: setting 	precipitationrate	0	
+[00:01:17]: setting 	iswet	false	
+[00:01:17]: setting 	isnewmoon	false	
+[00:01:17]: setting 	iswinter	false	
+[00:01:17]: setting 	israining	false	
+[00:01:17]: setting 	issummer	false	
+[00:01:17]: setting 	time	0.0020567893981933	
+[00:01:17]: setting 	wetness	0	
+[00:01:17]: setting 	moistureceil	4048.4243164063	
+[00:01:17]: setting 	isday	true	
+[00:01:17]: setting 	nightmaretimeinphase	0	
+[00:01:17]: setting 	season	spring	
+[00:01:17]: setting 	isnight	false	
+[00:01:17]: setting 	cycles	979	
+[00:01:17]: setting 	isnightmarecalm	false	
+[00:01:17]: setting 	timeinphase	0.0054847717285156	
+[00:01:17]: setting 	isdusk	false	
+[00:01:17]: setting 	iscavedusk	false	
+[00:01:17]: setting 	isautumn	false	
+[00:01:17]: setting 	iscaveday	true	
+[00:01:17]: setting 	remainingdaysinseason	10000	
+[00:01:17]: setting 	phase	day	
+[00:01:17]: setting 	snowlevel	0	
+[00:01:17]: setting 	iswaxingmoon	false	
+[00:01:17]: setting 	autumnlength	0	
+[00:01:17]: setting 	pop	0.88300200587552	
+[00:01:17]: setting 	nightmaretime	0	
+[00:01:17]: setting 	isspring	true	
+[00:01:17]: setting 	winterlength	0	
+[00:01:17]: setting 	nightmarephase	none	
+[00:01:17]: setting 	issnowcovered	false	
+[00:01:17]: setting 	issnowing	false	
+[00:01:17]: setting 	iscavenight	false	
+[00:01:17]: setting 	temperature	26.09861927761	
+[00:01:17]: setting 	cavephase	day	
+[00:01:17]: setting 	precipitation	none	
+[00:01:17]: setting 	isnightmarewarn	false	
+[00:01:17]: OVERRIDE: setting	hounds	to	never	
+[00:01:17]: OVERRIDE: setting	bearger	to	never	
+[00:01:17]: OVERRIDE: setting	goosemoose	to	never	
+[00:01:17]: OVERRIDE: setting	day	to	nonight	
+[00:01:17]: OVERRIDE: setting	weather	to	rare	
+[00:01:17]: OVERRIDE: setting	lureplants	to	never	
+[00:01:17]: OVERRIDE: setting	krampus	to	never	
+[00:01:17]: OVERRIDE: setting	meteorshowers	to	rare	
+[00:01:17]: OVERRIDE: setting	liefs	to	never	
+[00:01:17]: OVERRIDE: setting	dragonfly	to	rare	
+[00:01:17]: OVERRIDE: setting	deerclops	to	never	
+[00:01:17]: OVERRIDE: setting	antliontribute	to	never	
+[00:01:17]: OVERRIDE: setting	perd	to	never	
+[00:01:17]: OVERRIDE: setting	petrification	to	none	
+[00:01:17]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:01:17]: Reconstructing topology	
+[00:01:17]: 	...Sorting points	
+[00:01:17]: 	...Sorting edges	
+[00:01:17]: 	...Connecting nodes	
+[00:01:17]: 	...Validating connections	
+[00:01:17]: 	...Housekeeping	
+[00:01:17]: 	...Done!	
+[00:01:17]: ModIndex: Load sequence finished successfully.	
+[00:01:17]: Reset() returning
+[00:01:19]: Attempting to send resume request
+[00:01:19]: ReceiveResumeNotification
+[00:01:19]: Deleting user: session/57A77BAD9BD4E3CC/A7I21GLU8V5F/0000000001
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'avatar_winona.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture 'avatar_unknown.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:19]: WARNING! Could not find region 'avatar_random.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:19]: Looking for default texture 'avatar_unknown.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:32]: Could not find anim [emote_hat] in bank [FROMNUM]
+[00:01:35]: Movement prediction enabled	
+[00:01:35]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:35]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:35]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:01:35]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:01:35]: Deserializing tile data (425 x 425)
+[00:01:35]: Serializing user: session/57A77BAD9BD4E3CC/A7I21GLU8V5F/0000000001
+[00:01:46]: [string "scripts/widgets/announcementwidget.lua"]:99: attempt to index local 'icon_info' (a nil value)
+LUA ERROR stack traceback:
+scripts/widgets/announcementwidget.lua:99 in (method) SetIcon (Lua) <96-102>
+   self =
+      shown = false
+      fadetime = 0
+      inst = 101828 -  (valid:true)
+      focus = false
+      children = table: 46A71B20
+      size = 30
+      focus_flow_args = table: 46A71DA0
+      focus_target = false
+      parent = EventAnnouncer
+      root = Root
+      text = Text - -g c_announce("Hello world!")
+      lifetime = 0
+      can_fade_alpha = true
+      announce_type = 
+      font = bp50
+      name = AnnouncementWidget
+      colour = table: 46A72D90
+      focus_flow = table: 46A72138
+      enabled = true
+      callbacks = table: 46A71B48
+      icon = Image - images/button_icons.xml:announcement.tex
+   announce_type = KU_JnyuHjki
+   icon_info = nil
+scripts/widgets/announcementwidget.lua:139 in (method) SetAnnouncement (Lua) <135-151>
+   self =
+      shown = false
+      fadetime = 0
+      inst = 101828 -  (valid:true)
+      focus = false
+      children = table: 46A71B20
+      size = 30
+      focus_flow_args = table: 46A71DA0
+      focus_target = false
+      parent = EventAnnouncer
+      root = Root
+      text = Text - -g c_announce("Hello world!")
+      lifetime = 0
+      can_fade_alpha = true
+      announce_type = 
+      font = bp50
+      name = AnnouncementWidget
+      colour = table: 46A72D90
+      focus_flow = table: 46A72138
+      enabled = true
+      callbacks = table: 46A71B48
+      icon = Image - images/button_icons.xml:announcement.tex
+   announcement = -g c_announce("Hello world!")
+   announce_type = KU_JnyuHjki
+   colour = table: 5BB2A860
+   lifetime = 7
+   fadetime = 2
+scripts/widgets/eventannouncer.lua:119 in (method) ShowNewAnnouncement (Lua) <105-122>
+   self =
+      regular_announcements = table: 46A718C8
+      shown = true
+      inst = 101827 -  (valid:true)
+      focus = false
+      children = table: 46A71260
+      message_font = bp50
+      focus_flow_args = table: 46A71BC0
+      focus_target = false
+      can_fade_alpha = true
+      parent = eventannouncer_root
+      enabled = true
+      name = EventAnnouncer
+      skin_announcements = table: 46A71AD0
+      focus_flow = table: 46A71850
+      callbacks = table: 46A71760
+      message_size = 30
+      active_announcements = table: 46A718F0
+   announcement = -g c_announce("Hello world!")
+   colour = table: 5BB2A860
+   announce_type = KU_JnyuHjki
+   index = 1
+scripts/networking.lua:32 in () ? (Lua) <30-34>
+   message = -g c_announce("Hello world!")
+   colour = table: 5BB2A860
+   announce_type = KU_JnyuHjki
+
+[00:01:46]: [string "scripts/widgets/announcementwidget.lua"]:99: attempt to index local 'icon_info' (a nil value)
+LUA ERROR stack traceback:
+    scripts/widgets/announcementwidget.lua:99 in (method) SetIcon (Lua) <96-102>
+    scripts/widgets/announcementwidget.lua:139 in (method) SetAnnouncement (Lua) <135-151>
+    scripts/widgets/eventannouncer.lua:119 in (method) ShowNewAnnouncement (Lua) <105-122>
+    scripts/networking.lua:32 in () ? (Lua) <30-34>
+	
+[00:01:46]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:01:46]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:01:51]: Force aborting...
+[00:01:51]: [Shard] Stopping shard mode
+[00:01:52]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:52]: Collecting garbage...
+[00:01:52]: lua_gc took 0.06 seconds
+[00:01:52]: ~ShardLuaProxy()
+[00:01:52]: ~cEventLeaderboardProxy()
+[00:01:52]: ~ItemServerLuaProxy()
+[00:01:52]: ~InventoryLuaProxy()
+[00:01:52]: ~NetworkLuaProxy()
+[00:01:52]: ~SimLuaProxy()
+[00:01:52]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:52]: lua_close took 0.05 seconds
+[00:01:53]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:53]: saved ping_cache
+[00:01:53]: [Steam] Auth ticket cancelled
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:53]: CurlRequestManager::ClientThread::Main() complete
+[00:01:53]: HttpClient2 discarded 0 callbacks.
+[00:01:53]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.0ms!
+[00:01:53]: Shutting down

@@ -1,0 +1,119 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 30%
+	Available Physical Memory: 11306m/16260m
+	Available Page File: 21578m/27524m
+	Available Virtual Memory: 3998m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 10m
+	Working Set Size: 10m
+	Quota Peak Page Pool Usage: 180k
+	Quota Page Pool Usage: 180k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 221167
+[00:00:00]: Current time: Sun Jul 02 15:50:48 2017
+
+[00:00:00]: Don't Starve Together: 221167 WIN32
+[00:00:00]: Build Date: 2187
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (11344)
+[00:00:00]: ProfileIndex:5.23
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'ConsoleInput' (13364)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.14393
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2601
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 520
+    driverDate                20161024000000.000000-000
+    megsOfRam                 1024
+    refreshRate               60
+    videoModeDescription      3840 x 2160 x 4294967296 colors
+    driverVersion             21.20.16.4542
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadMods(0)
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: bloom_enabled	false	
+[00:00:03]: Could not load saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:06]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:08]: [200] Account Failed (6): "E_INVALID_TOKEN"
+[00:00:08]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:08]: !!!! Your Server Will Not Start !!!!
+[00:00:08]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:08]: No auth token could be found.
+[00:00:08]: To generate a cluster_token you must
+[00:00:08]: open the console from a logged-in game
+[00:00:08]: client with the tilda key (~ / ù) and type:
+[00:00:08]: TheNet:GenerateClusterToken()
+[00:00:08]: This will create 'cluster_token.txt' in
+[00:00:08]: your client settings directory. Copy this
+[00:00:08]: into your cluster settings directory.
+[00:00:08]: [Connect] PendingConnection::Reset(true)
+[00:05:10]: Collecting garbage...
+[00:05:11]: lua_gc took 0.04 seconds
+[00:05:11]: ~ShardLuaProxy()
+[00:05:11]: ~ItemServerLuaProxy()
+[00:05:11]: ~InventoryLuaProxy()
+[00:05:11]: ~NetworkLuaProxy()
+[00:05:11]: ~SimLuaProxy()
+[00:05:11]: lua_close took 0.08 seconds
+[00:05:11]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:05:11]: shaders/ui_yuv.ksh - 1
+[00:05:11]: CurlRequestManager::ClientThread::Main() complete
+[00:05:11]: HttpClient2 discarded 0 callbacks.
+[00:05:11]: Shutting down

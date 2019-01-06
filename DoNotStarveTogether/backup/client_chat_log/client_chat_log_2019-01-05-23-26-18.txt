@@ -1,0 +1,44 @@
+[00:40:40]: [Say] (KU_GWmhv7ol) rawii22: -g c_announce("Wondeful...")
+[00:40:40]: [Announcement] Wondeful...
+[00:41:58]: [Say] (KU_GWmhv7ol) rawii22: -g c_akakaakkakkkkakaakakakkakakakkakakkkkkakkaakakkakakaakkakakaakakakkaka
+[00:42:43]: [Say] (KU_GWmhv7ol) rawii22: -g c_akakaakkakkkkakaakakakkakakakkakakkkkkakkaakakkakakaakkakakaakakakkakk
+[00:43:24]: [Say] (KU_GWmhv7ol) rawii22: -g c_ada;adkjfhaoFhasddifjasdoifjaasdfadf
+[00:43:32]: [Say] (KU_GWmhv7ol) rawii22: -g c_aeilfhadlfhadfkladfsjhslfg
+[00:43:57]: [Say] (KU_GWmhv7ol) rawii22: -g c_aasiufhalkfhasdkjdhfakjhfdfhafjdhlajkfhadlkhafahflakjchkfjhadflkjdfhadljhfadfhadjk
+[00:44:42]: [Say] (KU_GWmhv7ol) rawii22: -g c_supergodmode()
+[00:44:53]: [Say] (KU_GWmhv7ol) rawii22: -g c_supergpdmode(2)
+[00:45:05]: [Say] (KU_GWmhv7ol) rawii22: -g c_supergodmode(2)
+[00:45:33]: [Say] (KU_GWmhv7ol) rawii22: -g c_spawn("honey")
+[01:22:57]: [Say] (KU_JnyuHjki) albertoromañach: -g 2
+[01:23:05]: [Say] (KU_JnyuHjki) albertoromañach: -g2
+[01:25:15]: [Say] (KU_JnyuHjki) albertoromañach: -g c_supergodmode(2)
+[01:25:44]: [Say] (KU_JnyuHjki) albertoromañach: -g c_supergodmode()
+[02:05:50]: [Say] (KU_JnyuHjki) albertoromañach: -g 1
+[02:08:37]: [Say] (KU_JnyuHjki) albertoromañach: -g 2
+[02:08:51]: [Say] (KU_GWmhv7ol) rawii22: -g 1
+[02:09:00]: [Say] (KU_GWmhv7ol) rawii22: -g 1
+[02:09:04]: [Say] (KU_GWmhv7ol) rawii22: -g 2
+[02:14:39]: [Say] (KU_JnyuHjki) albertoromañach: -g 2
+[02:19:06]: [Say] (KU_JnyuHjki) albertoromañach: -g 2
+[02:19:13]: [Say] (KU_JnyuHjki) albertoromañach: -g 1
+[02:19:14]: [Say] (KU_GWmhv7ol) rawii22: -g 1
+[02:19:23]: [Say] (KU_GWmhv7ol) rawii22: -g 2
+[02:26:15]: [Death Announcement] rawii22 <0 / 200> was killed by Starvation. She became a spooky ghost!
+[02:26:24]: [Resurrect Announcement] rawii22 was resurrected by Shenanigans.
+[02:33:38]: [Say] (KU_GWmhv7ol) rawii22: -c TheWorld:PushEvent("ms_forceprecipitation")
+[02:33:56]: [Say] (KU_GWmhv7ol) rawii22: -c c_supergodmode(2)
+[02:34:22]: [Say] (KU_JnyuHjki) albertoromañach: -c c_announce("test!")
+[02:34:22]: [Announcement] test!
+[02:34:40]: [Say] (KU_GWmhv7ol) rawii22: -c c_announce("i'm here, the party can now begin!")
+[02:34:40]: [Announcement] i'm here, the party can now begin!
+[02:37:23]: [Say] (KU_GWmhv7ol) rawii22: -c ThePlayer.components.hunger:SetPercent(1)
+[02:38:01]: [Say] (KU_GWmhv7ol) rawii22: -c print(ThePlayer)
+[02:38:22]: [Say] (KU_GWmhv7ol) rawii22: -c print(tostring(ThePlayer))
+[02:41:42]: [Say] (KU_GWmhv7ol) rawii22: -c Ents[AllPlayers[2].guid]
+[02:42:15]: [Say] (KU_GWmhv7ol) rawii22: -c print(tostring(Ents[AllPlayers[2].guid]))
+[02:43:02]: [Say] (KU_GWmhv7ol) rawii22: -c print(tostring(AllPlayers[2].guid))
+[02:43:37]: [Say] (KU_GWmhv7ol) rawii22: -c print(tostring(AllPlayers[2].GUID))
+[02:47:29]: [Say] (KU_GWmhv7ol) rawii22: -c print(tostring(ThePlayer))
+[02:47:54]: [Say] (KU_JnyuHjki) albertoromañach: -c print(tostring(ThePlayer))
+[02:50:53]: [Say] (KU_GWmhv7ol) rawii22: -c set_hunger(1)
+[02:51:07]: [Say] (KU_GWmhv7ol) rawii22: -c c_sethunger(1)

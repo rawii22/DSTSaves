@@ -1,0 +1,1719 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 48%
+	Available Physical Memory: 8397m/16260m
+	Available Page File: 7466m/21892m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 263k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Thu Jan 03 02:54:34 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3366554
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (48784)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip skipped.
+[00:00:01]: ProfileIndex:4.34
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (41216)
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (36284)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198214670708
+[00:00:01]: SteamID: 76561198214670708
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  2
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2601
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 520
+    driverDate                20161024000000.000000-000
+    megsOfRam                 1024
+    refreshRate               60
+    videoModeDescription      3840 x 2160 x 4294967296 colors
+    driverVersion             21.20.16.4542
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 3840,2160 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 16 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:01]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:01]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:01]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: WindowManager::SetFullscreen(0, 3840, 2160, 60)
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (Intel(R) HD Graphics 520)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (44000)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:00:03]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:03]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-345693021	
+[00:00:03]: Loading mod: workshop-345693021 (Better Console) Version:2.0.1	
+[00:00:03]: Mod: workshop-345693021 (Better Console)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-345693021 (Better Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-345693021 (Better Console)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-345693021/configurable.lua	
+[00:00:03]: (Better Console) Unable to load config.lua (does it exist?)	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:03]: Failed to communicate with routing cluster 'iad'.
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: Communications with routing cluster 'iad' established.
+[00:00:04]: Ping measurement completed
+[00:00:04]: Ping location: ord=17+1,atl=24+2,iad=24+2,okc=35+3/34+1,sea=70+7/62+1,lax=70+7/68+1,mwh=75+7/70+1,lhr=95+9/96+2,lim=100+10,fra=117+11/107+9,gru=149+14,sgp=238+23/236+16
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	5664	
+[00:00:05]: PlayerHistory loaded player_history (v2) len:4585	
+[00:00:05]: ServerPreferences loaded server_preferences	2	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: workshop-345693021 (Better Console)	Registering prefabs	
+[00:00:07]: Mod: workshop-345693021 (Better Console)	  Registering default mod prefab	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (16296)
+[00:00:08]: FilesExistAsyncThread started (19890 files)...
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:08]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:08]: [MOTD] Downloading info	
+[00:00:08]: SimLuaProxy::QueryServer()
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:10]: [MOTD] Downloading image for box1
+[00:00:11]: [Steam] Auth Session Ticket requested...
+[00:00:11]: [Steam] Got Auth Session Ticket
+[00:00:11]: [MOTD] Done Loading.	
+[00:00:12]: [200] Account Communication Success (3)
+[00:00:12]: Logging in as KU_GWmhv7ol
+[00:00:12]: There is no active event to get the status of.
+[00:00:12]: loaded inventory_cache_prod
+[00:00:12]: loaded inventory_cache_prod
+[00:00:14]: ... FilesExistAsyncThread complete
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:15]: Getting top mod details...
+[00:00:15]: Frontend-Unloading mod 'all'.	
+[00:00:15]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:15]: FrontendLoadMod	PrefabIDConcatenator	
+[00:00:15]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:15]: Fontend-Loading mod: PrefabIDConcatenator (Prefab ID Concatenator) Version:1.0	
+[00:00:15]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:16]: GOT top mod details...50
+[00:00:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:17]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:18]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:19]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:20]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:21]: Network tick rate: U=15(2), D=0
+[00:00:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:21]: About to start a server with the following settings:
+[00:00:21]:   Dedicated: false
+[00:00:21]:   Online: true
+[00:00:21]:   Passworded: false
+[00:00:21]:   ServerPort: 10999
+[00:00:21]:   SteamAuthPort: 8766
+[00:00:21]:   SteamMasterServerPort: 27016
+[00:00:21]:   ClanID: false
+[00:00:21]:   ClanOnly: false
+[00:00:21]:   ClanAdmin: false
+[00:00:21]:   LanOnly: false
+[00:00:21]:   FriendsOnly: true
+[00:00:21]:   EnableAutosaver: true
+[00:00:21]:   EncodeUserPath: true
+[00:00:21]:   PVP: false
+[00:00:21]:   MaxPlayers: 6
+[00:00:21]:   GameMode: survival
+[00:00:21]:   OverridenDNS: 
+[00:00:21]:   PauseWhenEmpty: true
+[00:00:21]:   IdleTimeout: 1800s
+[00:00:21]:   VoteEnabled: false
+[00:00:21]:   InternetBroadcasting: true
+[00:00:21]:   Intent: cooperative
+[00:00:21]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:21]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:21]: Online Server Started on port: 10999
+[00:00:21]: Collecting garbage...
+[00:00:21]: lua_gc took 0.06 seconds
+[00:00:21]: ~ShardLuaProxy()
+[00:00:21]: ~cEventLeaderboardProxy()
+[00:00:21]: ~ItemServerLuaProxy()
+[00:00:21]: ~InventoryLuaProxy()
+[00:00:21]: ~NetworkLuaProxy()
+[00:00:21]: ~SimLuaProxy()
+[00:00:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:21]: lua_close took 0.10 seconds
+[00:00:21]: ReleaseAll
+[00:00:21]: ReleaseAll Finished
+[00:00:21]: cGame::StartPlaying
+[00:00:21]: LOADING LUA
+[00:00:21]: DoLuaFile scripts/main.lua
+[00:00:21]: DoLuaFile loading buffer scripts/main.lua
+[00:00:21]:   taskgrouplist:	default	Together	
+[00:00:21]:   taskgrouplist:	classic	Classic	
+[00:00:21]:   taskgrouplist:	cave_default	Underground	
+[00:00:21]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:21]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:21]: running main.lua
+	
+[00:00:21]: unloading prefabs for mod MOD_workshop-345693021	
+[00:00:21]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:00:21]: loaded modindex	
+[00:00:21]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:22]: ModIndex: Beginning normal load sequence.
+	
+[00:00:22]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:22]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:00:22]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:22]: Loading mod: PrefabIDConcatenator (Prefab ID Concatenator) Version:1.0	
+[00:00:22]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:22]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:22]: Could not load mod_config_data/modconfiguration_workshop-345693021	
+[00:00:22]: Loading mod: workshop-345693021 (Better Console) Version:2.0.1	
+[00:00:22]: Mod: workshop-345693021 (Better Console)	Loading modworldgenmain.lua	
+[00:00:22]: Mod: workshop-345693021 (Better Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:22]: Mod: workshop-345693021 (Better Console)	Loading modmain.lua	
+[00:00:22]: modimport: ../mods/workshop-345693021/configurable.lua	
+[00:00:22]: (Better Console) Unable to load config.lua (does it exist?)	
+[00:00:22]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:22]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:22]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:22]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Loading modworldgenmain.lua	
+[00:00:22]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:22]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Loading modmain.lua	
+[00:00:22]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:22]: LOADING LUA SUCCESS
+[00:00:22]: PlayerDeaths loaded morgue	5664	
+[00:00:22]: PlayerHistory loaded player_history (v2) len:4585	
+[00:00:22]: ServerPreferences loaded server_preferences	2	
+[00:00:22]: bloom_enabled	false	
+[00:00:22]: loaded saveindex	
+[00:00:22]: OnFilesLoaded()	
+[00:00:22]: OnUpdatePurchaseStateComplete	
+[00:00:22]: Loading world: session/485976EB1771F71A/0000000008	
+[00:00:22]: Save file is at version 4.77	
+[00:00:22]: Klump load on boot started.	
+[00:00:22]: Klump files loaded: 	0	
+[00:00:22]: 	Unload FE	
+[00:00:23]: 	Unload FE done	
+[00:00:26]: Mod: workshop-345693021 (Better Console)	Registering prefabs	
+[00:00:26]: Mod: workshop-345693021 (Better Console)	  Registering default mod prefab	
+[00:00:26]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:26]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:26]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:26]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:26]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	Registering prefabs	
+[00:00:26]: Mod: PrefabIDConcatenator (Prefab ID Concatenator)	  Registering default mod prefab	
+[00:00:26]: 	LOAD BE	
+[00:00:29]: 	LOAD BE: done	
+[00:00:29]: Begin Session: 485976EB1771F71A
+[00:00:29]: saving to server_temp/server_save	
+[00:00:30]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:30]: MiniMapComponent::AddAtlas( ../mods/Quantum-Chest/minimap/treasurechest_quantum.xml )
+[00:00:30]: Loading 12 new character(s)	
+[00:00:31]: Total 12 character(s) loaded	
+[00:00:31]: Loading Nav Grid	
+[00:00:31]: setting 	summerlength	15	
+[00:00:31]: setting 	isnightmaredawn	false	
+[00:00:31]: setting 	elapseddaysinseason	3	
+[00:00:31]: setting 	isfullmoon	false	
+[00:00:31]: setting 	moisture	386.23742675781	
+[00:00:31]: setting 	springlength	20	
+[00:00:31]: setting 	isnightmarewild	false	
+[00:00:31]: setting 	moonphase	quarter	
+[00:00:31]: setting 	precipitationrate	0	
+[00:00:31]: setting 	iswet	false	
+[00:00:31]: setting 	isnewmoon	false	
+[00:00:31]: setting 	iswinter	false	
+[00:00:31]: setting 	israining	false	
+[00:00:31]: setting 	isnightmarewarn	false	
+[00:00:31]: setting 	precipitation	none	
+[00:00:31]: setting 	cavephase	day	
+[00:00:31]: setting 	moistureceil	569.09454345703	
+[00:00:31]: setting 	isday	true	
+[00:00:31]: setting 	iscaveday	true	
+[00:00:31]: setting 	season	autumn	
+[00:00:31]: setting 	timeinphase	0.42397060394287	
+[00:00:31]: setting 	temperature	32.31636697598	
+[00:00:31]: setting 	isnightmarecalm	false	
+[00:00:31]: setting 	isnight	false	
+[00:00:31]: setting 	isdusk	false	
+[00:00:31]: setting 	iscavedusk	false	
+[00:00:31]: setting 	isautumn	true	
+[00:00:31]: setting 	issnowing	false	
+[00:00:31]: setting 	iswaxingmoon	true	
+[00:00:31]: setting 	pop	0.67868762967146	
+[00:00:31]: setting 	snowlevel	0	
+[00:00:31]: setting 	issnowcovered	false	
+[00:00:31]: setting 	autumnlength	20	
+[00:00:31]: setting 	phase	day	
+[00:00:31]: setting 	nightmaretime	0	
+[00:00:31]: setting 	winterlength	15	
+[00:00:31]: setting 	isspring	false	
+[00:00:31]: setting 	nightmarephase	none	
+[00:00:31]: setting 	remainingdaysinseason	17	
+[00:00:31]: setting 	cycles	3	
+[00:00:31]: setting 	iscavenight	false	
+[00:00:31]: setting 	nightmaretimeinphase	0	
+[00:00:31]: setting 	wetness	0	
+[00:00:31]: setting 	time	0.21198530197144	
+[00:00:31]: setting 	issummer	false	
+[00:00:37]: >> Replica:SetCanBeOpened()	
+[00:00:37]: >> Replica:SetOpener()	
+[00:00:37]: CLASSIFIED: InitializeSlots()	
+[00:00:39]: Reconstructing topology	
+[00:00:39]: 	...Sorting points	
+[00:00:39]: 	...Sorting edges	
+[00:00:39]: 	...Connecting nodes	
+[00:00:39]: 	...Validating connections	
+[00:00:39]: 	...Housekeeping	
+[00:00:39]: 	...Done!	
+[00:00:39]: 1 uploads added to server. From server_temp
+[00:00:39]: Telling Client our new session identifier: 485976EB1771F71A
+[00:00:39]: ModIndex: Load sequence finished successfully.	
+[00:00:39]: Reset() returning
+[00:00:40]: Best lobby region is aws/US (ping 32)
+[00:00:40]: Registering master server in US lobby
+[00:00:40]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:40]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:00:40]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:00:40]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:00:40]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:00:40]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:00:40]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:00:40]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:00:40]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:00:40]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:00:40]: Attempting to send resume request
+[00:00:40]: Resuming user: session/485976EB1771F71A/A7I21GLU8V5F/0000000008
+[00:00:40]: Spawning player at: [Load] (-220.92, 0.00, -270.03)	
+[00:00:40]: ReceiveResumeNotification
+[00:00:40]: Deserializing tile data (425 x 425)
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:41]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:42]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:43]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:44]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:45]: ACTION CHECK, POINT: inventoryitem	
+[00:00:50]: Registering master server in US lobby
+[00:01:03]: > c_announce("hello")
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:04]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:05]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:06]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:07]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:08]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:09]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:10]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:11]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:12]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:13]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:14]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:15]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:16]: ACTION CHECK, SCENE: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:16]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:17]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:18]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:19]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:20]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:21]: ACTION CHECK, POINT: inventoryitem	
+[00:01:22]: ACTION CHECK, POINT: inventoryitem	
+[00:01:22]: ACTION CHECK, POINT: inventoryitem	
+[00:01:22]: ACTION CHECK, POINT: inventoryitem	
+[00:01:22]: ACTION CHECK, POINT: inventoryitem	
+[00:01:28]: DoRestart:	true	
+[00:01:30]: Serializing user: session/485976EB1771F71A/A7I21GLU8V5F/0000000009
+[00:01:30]: Serializing world: session/485976EB1771F71A/0000000009
+[00:01:30]: Truncating to snapshot #9...
+[00:01:30]:  - session/485976EB1771F71A/0000000003
+[00:01:30]:  - session/485976EB1771F71A/A7I21GLU8V5F/0000000003
+[00:01:30]:    2 file(s) removed
+[00:01:30]: Removing server from US lobby
+[00:01:30]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:30]: Collecting garbage...
+[00:01:31]: lua_gc took 0.18 seconds
+[00:01:31]: ~ShardLuaProxy()
+[00:01:31]: ~cEventLeaderboardProxy()
+[00:01:31]: ~ItemServerLuaProxy()
+[00:01:31]: ~InventoryLuaProxy()
+[00:01:31]: ~NetworkLuaProxy()
+[00:01:31]: ~SimLuaProxy()
+[00:01:31]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:31]: lua_close took 0.29 seconds
+[00:01:31]: ReleaseAll
+[00:01:31]: ReleaseAll Finished
+[00:01:31]: cGame::StartPlaying
+[00:01:31]: LOADING LUA
+[00:01:31]: DoLuaFile scripts/main.lua
+[00:01:31]: DoLuaFile loading buffer scripts/main.lua
+[00:01:31]:   taskgrouplist:	default	Together	
+[00:01:31]:   taskgrouplist:	classic	Classic	
+[00:01:31]:   taskgrouplist:	cave_default	Underground	
+[00:01:31]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:31]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:31]: running main.lua
+	
+[00:01:31]: unloading prefabs for mod MOD_workshop-345693021	
+[00:01:31]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:01:31]: unloading prefabs for mod MOD_PrefabIDConcatenator	
+[00:01:31]: loaded modindex	
+[00:01:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:31]: ModIndex: Beginning normal load sequence.
+	
+[00:01:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:31]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:01:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345693021	
+[00:01:31]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:01:31]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:01:31]: Could not load mod_config_data/modconfiguration_workshop-345693021	
+[00:01:31]: Loading mod: workshop-345693021 (Better Console) Version:2.0.1	
+[00:01:31]: Mod: workshop-345693021 (Better Console)	Loading modworldgenmain.lua	
+[00:01:31]: Mod: workshop-345693021 (Better Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:31]: Mod: workshop-345693021 (Better Console)	Loading modmain.lua	
+[00:01:31]: modimport: ../mods/workshop-345693021/configurable.lua	
+[00:01:31]: (Better Console) Unable to load config.lua (does it exist?)	
+[00:01:31]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:01:31]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:31]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:01:32]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:32]: LOADING LUA SUCCESS
+[00:01:32]: PlayerDeaths loaded morgue	5664	
+[00:01:32]: PlayerHistory loaded player_history (v2) len:4585	
+[00:01:32]: ServerPreferences loaded server_preferences	2	
+[00:01:32]: bloom_enabled	false	
+[00:01:32]: loaded saveindex	
+[00:01:32]: OnFilesLoaded()	
+[00:01:32]: OnUpdatePurchaseStateComplete	
+[00:01:32]: Klump load on boot started.	
+[00:01:32]: Klump files loaded: 	0	
+[00:01:32]: 	Unload characters	
+[00:01:32]: 	Unload BE	
+[00:01:32]: 	Unload BE done	
+[00:01:35]: Mod: workshop-345693021 (Better Console)	Registering prefabs	
+[00:01:35]: Mod: workshop-345693021 (Better Console)	  Registering default mod prefab	
+[00:01:35]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:01:35]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:01:35]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:01:35]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:01:35]: 	Load FE	
+[00:01:35]: 	Load FE: done	
+[00:01:35]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:01:35]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:01:35]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:01:35]: [MOTD] Downloading info	
+[00:01:35]: SimLuaProxy::QueryServer()
+[00:01:35]: ModIndex: Load sequence finished successfully.	
+[00:01:35]: Reset() returning
+[00:01:35]: Successfully removed server listing
+[00:01:38]: [MOTD] Downloading image for box1
+[00:01:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:39]: Collecting garbage...
+[00:01:39]: lua_gc took 0.03 seconds
+[00:01:39]: ~ShardLuaProxy()
+[00:01:39]: ~cEventLeaderboardProxy()
+[00:01:39]: ~ItemServerLuaProxy()
+[00:01:39]: ~InventoryLuaProxy()
+[00:01:39]: ~NetworkLuaProxy()
+[00:01:39]: ~SimLuaProxy()
+[00:01:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:39]: lua_close took 0.04 seconds
+[00:01:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:39]: [Steam] Auth ticket cancelled
+[00:01:39]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:39]: anim/structure_collapse_fx.zip - 1
+[00:01:39]: anim/gems.zip - 6
+[00:01:39]: anim/statue_ruins_small.zip - 4
+[00:01:39]: anim/statue_ruins.zip - 4
+[00:01:39]: anim/statue_ruins_small_gem.zip - 4
+[00:01:39]: anim/nightmarefuel.zip - 1
+[00:01:39]: anim/die.zip - 1
+[00:01:39]: anim/statue_ruins_gem.zip - 4
+[00:01:39]: anim/thulecite.zip - 1
+[00:01:39]: anim/statue_ruins_fx.zip - 1
+[00:01:39]: anim/marble.zip - 1
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:40]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:40]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[00:01:40]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[00:01:40]: anim/gems.zip:gems--atlas-0.tex - 1
+[00:01:40]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[00:01:40]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[00:01:40]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[00:01:40]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[00:01:40]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[00:01:40]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[00:01:40]: anim/marble.zip:marble--atlas-0.tex - 1
+[00:01:40]: anim/die.zip:die--atlas-0.tex - 1
+[00:01:40]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[00:01:40]: CurlRequestManager::ClientThread::Main() complete
+[00:01:40]: HttpClient2 discarded 0 callbacks.
+[00:01:40]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 252.6ms!
+[00:01:40]: Shutting down
