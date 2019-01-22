@@ -1,0 +1,183 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 63%
+	Available Physical Memory: 5939m/16287m
+	Available Page File: 7860m/49214m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 264k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 5m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Sun Jan 06 15:01:50 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 3366554
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (105752)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip skipped.
+[00:00:00]: ProfileIndex:4.37
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (116520)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (90888)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198246628238
+[00:00:00]: SteamID: 76561198246628238
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-4702HQ CPU @ 2.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 4600
+    driverDate                20160929000000.000000-000
+    megsOfRam                 1024
+    refreshRate               59
+    videoModeDescription      2048 x 1152 x 4294967296 colors
+    driverVersion             20.19.15.4531
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 3840,2160 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: WindowManager::SetFullscreen(0, 1280, 720, 60)
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: Failed to communicate with routing cluster 'iad'.
+[00:00:02]: Communications with routing cluster 'iad' established.
+[00:00:03]: Ping measurement completed
+[00:00:03]: Ping location: ord=19+1,atl=25+2,iad=29+2,okc=37+3/36+1,sea=74+7/63+1,lax=66+6/70+1,mwh=77+7/71+1,lhr=103+10/101+2,lim=104+10,fra=112+11/110+10,gru=147+14/156+2,sgp=238+23/238+16
+[00:00:04]: GLInfo
+[00:00:04]: ~~~~~~
+[00:00:04]: THREAD - started 'WindowsInputManager' (115524)
+[00:00:04]: GL_VENDOR: Google Inc.
+[00:00:04]: GL_RENDERER: ANGLE (NVIDIA Quadro K1100M)
+[00:00:04]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:04]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:04]: OpenGL extensions (19, 19):
+[00:00:04]: GL_ANGLE_depth_texture
+[00:00:04]: GL_ANGLE_framebuffer_blit
+[00:00:04]: GL_ANGLE_framebuffer_multisample
+[00:00:04]: GL_ANGLE_instanced_arrays
+[00:00:04]: GL_ANGLE_pack_reverse_row_order
+[00:00:04]: GL_ANGLE_texture_compression_dxt3
+[00:00:04]: GL_ANGLE_texture_compression_dxt5
+[00:00:04]: GL_ANGLE_texture_usage
+[00:00:04]: GL_ANGLE_translated_shader_source
+[00:00:04]: GL_EXT_read_format_bgra
+[00:00:04]: GL_EXT_robustness
+[00:00:04]: GL_EXT_texture_compression_dxt1
+[00:00:04]: GL_EXT_texture_format_BGRA8888
+[00:00:04]: GL_EXT_texture_storage
+[00:00:04]: GL_OES_get_program_binary
+[00:00:04]: GL_OES_packed_depth_stencil
+[00:00:04]: GL_OES_rgb8_rgba8
+[00:00:04]: GL_OES_standard_derivatives
+[00:00:04]: GL_OES_texture_npot
+[00:00:04]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:04]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:04]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:04]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:04]: GL_MAX_VARYING_VECTORS = 10
+[00:00:04]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:04]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:04]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:04]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:04]: 4 compressed texture formats
+[00:00:04]: texture format 0x83f0
+[00:00:04]: texture format 0x83f1
+[00:00:04]: texture format 0x83f2
+[00:00:04]: texture format 0x83f3
+[00:00:05]: Renderer initialize: Okay
+[00:00:05]: AnimManager initialize: Okay
+[00:00:06]: Buffers initialize: Okay
+[00:00:06]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:06]: GameSpecific initialize: Okay
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]:   taskgrouplist:	default	Together	
+[00:00:07]:   taskgrouplist:	classic	Classic	
+[00:00:07]:   taskgrouplist:	cave_default	Underground	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:07]: running main.lua
+	
+[00:00:07]: loaded modindex	
+[00:00:07]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:08]: ModIndex: Beginning normal load sequence.
+	
+[00:00:08]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:08]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:08]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:08]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:08]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:08]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:08]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:12]: PlayerDeaths loaded morgue	5822	
+[00:00:12]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:12]: ServerPreferences loaded server_preferences	2	
+[00:00:12]: bloom_enabled	false	
+[00:00:12]: loaded saveindex	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:18]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:18]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:18]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:18]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:19]: 	Load FE	

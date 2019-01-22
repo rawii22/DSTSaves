@@ -1,0 +1,224 @@
+[00:00:01]: 
+System Memory:
+	Memory Load: 58%
+	Available Physical Memory: 6709m/16287m
+	Available Page File: 9354m/50250m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:01]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 264k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 298000
+[00:00:01]: Current time: Sun Jan 06 15:50:40 2019
+
+[00:00:01]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:01]: Build Date: 3673
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: Steam AppBuildID: 3366554
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (100980)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip skipped.
+[00:00:01]: ProfileIndex:4.98
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: THREAD - started 'Ping Job Thread' (117220)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (116924)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198246628238
+[00:00:01]: SteamID: 76561198246628238
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-4702HQ CPU @ 2.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 4600
+    driverDate                20160929000000.000000-000
+    megsOfRam                 1024
+    refreshRate               29
+    videoModeDescription      2048 x 1152 x 4294967296 colors
+    driverVersion             20.19.15.4531
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 4096,2179 - 5/6/5 - -1/-1/-1 - 0
+[00:00:02]: CreateEGLContext: 12 configs found
+[00:00:02]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:02]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:02]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:02]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:02]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:02]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:02]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:02]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:02]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:02]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:02]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:02]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:02]: RestoreWindowPosition
+[00:00:02]:    Saved Client Pos (-1 x 126)
+[00:00:02]:    Adjusted Window Pos (-14 x 68)
+[00:00:02]: EnsureWindowOnScreen
+[00:00:02]:    All good.
+[00:00:02]: GLInfo
+[00:00:02]: ~~~~~~
+[00:00:02]: GL_VENDOR: Google Inc.
+[00:00:02]: GL_RENDERER: ANGLE (NVIDIA Quadro K1100M)
+[00:00:02]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:02]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:02]: THREAD - started 'WindowsInputManager' (102124)
+[00:00:02]: OpenGL extensions (19, 19):
+[00:00:02]: GL_ANGLE_depth_texture
+[00:00:02]: GL_ANGLE_framebuffer_blit
+[00:00:02]: GL_ANGLE_framebuffer_multisample
+[00:00:02]: GL_ANGLE_instanced_arrays
+[00:00:02]: GL_ANGLE_pack_reverse_row_order
+[00:00:02]: GL_ANGLE_texture_compression_dxt3
+[00:00:02]: GL_ANGLE_texture_compression_dxt5
+[00:00:02]: GL_ANGLE_texture_usage
+[00:00:02]: GL_ANGLE_translated_shader_source
+[00:00:02]: GL_EXT_read_format_bgra
+[00:00:02]: GL_EXT_robustness
+[00:00:02]: GL_EXT_texture_compression_dxt1
+[00:00:02]: GL_EXT_texture_format_BGRA8888
+[00:00:02]: GL_EXT_texture_storage
+[00:00:02]: GL_OES_get_program_binary
+[00:00:02]: GL_OES_packed_depth_stencil
+[00:00:02]: GL_OES_rgb8_rgba8
+[00:00:02]: GL_OES_standard_derivatives
+[00:00:02]: GL_OES_texture_npot
+[00:00:02]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:02]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:02]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:02]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:02]: GL_MAX_VARYING_VECTORS = 10
+[00:00:02]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:02]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:02]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:02]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:02]: 4 compressed texture formats
+[00:00:02]: texture format 0x83f0
+[00:00:02]: texture format 0x83f1
+[00:00:02]: texture format 0x83f2
+[00:00:02]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:03]: Failed to communicate with routing cluster 'ggru'.
+[00:00:03]: Failed to communicate with routing cluster 'ghel'.
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:03]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:03]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: Ping measurement completed
+[00:00:04]: Ping location: atl=12+1,ord=18+1,iad=25+2/25+1,okc=37+3/35+1,lax=65+6/56+1,sea=70+7/64+1,mwh=76+7/72+1,lhr=97+9/97+1,lim=100+10,fra=118+11/114+1,gru=149+14/143+1,sgp=240+24/237+16
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	5822	
+[00:00:05]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:05]: ServerPreferences loaded server_preferences	2	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (116180)
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:08]: FilesExistAsyncThread started (19890 files)...
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:08]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:08]: [MOTD] Downloading info	
+[00:00:08]: SimLuaProxy::QueryServer()
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:10]: ... FilesExistAsyncThread complete
+[00:00:10]: [MOTD] Downloading image for box1
+[00:00:11]: [MOTD] Done Loading.	
+[00:00:29]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:29]: Collecting garbage...
+[00:00:29]: lua_gc took 0.02 seconds
+[00:00:29]: ~ShardLuaProxy()
+[00:00:29]: ~cEventLeaderboardProxy()
+[00:00:29]: ~ItemServerLuaProxy()
+[00:00:29]: ~InventoryLuaProxy()
+[00:00:29]: ~NetworkLuaProxy()
+[00:00:29]: ~SimLuaProxy()
+[00:00:29]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:29]: lua_close took 0.03 seconds
+[00:00:30]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:30]: CurlRequestManager::ClientThread::Main() complete
+[00:00:30]: HttpClient2 discarded 0 callbacks.
+[00:00:30]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.8ms!
+[00:00:30]: Shutting down

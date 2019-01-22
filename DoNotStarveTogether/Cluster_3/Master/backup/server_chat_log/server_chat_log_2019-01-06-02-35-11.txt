@@ -1,0 +1,7 @@
+[00:00:39]: [Join Announcement] albertoromañach
+[00:02:31]: [Join Announcement] rawii22
+[00:12:58]: [Death Announcement] rawii22 was killed by Terrorbeak. She became a spooky ghost!
+[00:13:18]: [Say] (KU_GWmhv7ol) rawii22: -g c_supergodmode(2)
+[00:13:59]: [Resurrect Announcement] rawii22 was resurrected by Life Giving Amulet.
+[00:22:32]: [Leave Announcement] rawii22
+[00:26:46]: [Leave Announcement] albertoromañach

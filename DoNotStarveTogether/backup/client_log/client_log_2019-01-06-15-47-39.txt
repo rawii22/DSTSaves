@@ -1,0 +1,1321 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 65%
+	Available Physical Memory: 5564m/16287m
+	Available Page File: 9338m/50250m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 264k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 5m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Sun Jan 06 15:26:14 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 3366554
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (115412)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip skipped.
+[00:00:00]: ProfileIndex:4.96
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (116776)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (116356)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198246628238
+[00:00:00]: SteamID: 76561198246628238
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-4702HQ CPU @ 2.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 4600
+    driverDate                20160929000000.000000-000
+    megsOfRam                 1024
+    refreshRate               29
+    videoModeDescription      2048 x 1152 x 4294967296 colors
+    driverVersion             20.19.15.4531
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 4096,2179 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (-1 x 126)
+[00:00:01]:    Adjusted Window Pos (-14 x 68)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA Quadro K1100M)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (95164)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:02]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:02]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: Ping measurement completed
+[00:00:03]: Ping location: atl=12+1,ord=18+1,iad=27+2/25+1,okc=35+3/35+1,lax=70+7/56+1,sea=70+7/64+1,mwh=77+7/70+1,lhr=98+9/97+1,lim=102+10,fra=122+12/111+9,gru=147+14/143+1,sgp=238+23/237+16
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	5822	
+[00:00:04]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:04]: ServerPreferences loaded server_preferences	2	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:06]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (115616)
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:07]: FilesExistAsyncThread started (19890 files)...
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:07]: [MOTD] Downloading info	
+[00:00:07]: SimLuaProxy::QueryServer()
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:10]: [MOTD] Downloading image for box1
+[00:00:10]: [Steam] Auth Session Ticket requested...
+[00:00:10]: [Steam] Got Auth Session Ticket
+[00:00:11]: [MOTD] Done Loading.	
+[00:00:11]: [200] Account Communication Success (3)
+[00:00:11]: Logging in as KU_JnyuHjki
+[00:00:11]: There is no active event to get the status of.
+[00:00:11]: loaded inventory_cache_prod
+[00:00:11]: loaded inventory_cache_prod
+[00:00:14]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:14]: Getting top mod details...
+[00:00:14]: Frontend-Unloading mod 'all'.	
+[00:00:14]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-816057392	
+[00:00:14]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:14]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:14]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:14]: FrontendLoadMod	workshop-347079953	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:14]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:14]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	TorchCooking	
+[00:00:14]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:00:14]: Fontend-Loading mod: TorchCooking (Torch+) Version:1.0	
+[00:00:14]: Mod: TorchCooking (Torch+)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: TorchCooking (Torch+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	ClientConsole	
+[00:00:14]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:14]: Fontend-Loading mod: ClientConsole (Client Console) Version:1.0	
+[00:00:14]: Mod: ClientConsole (Client Console)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: ClientConsole (Client Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	workshop-816057392	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-816057392	
+[00:00:14]: Fontend-Loading mod: workshop-816057392 (Combined Status Server Version) Version:1.6.14	
+[00:00:14]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-816057392 (Combined Status Server Version)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	workshop-375859599	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:14]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:14]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	PrefabIDConcatenator	
+[00:00:14]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:14]: Fontend-Loading mod: PrefabIDConcatenator (Prefab ID Concatenator(Git)) Version:1.0	
+[00:00:14]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modworldgenmain.lua	
+[00:00:14]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:14]: FrontendLoadMod	workshop-458940297	
+[00:00:14]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:14]: Fontend-Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:14]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:14]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:15]: GOT top mod details...50
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:17]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:17]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:00:17]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-816057392	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:17]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:17]: Best lobby region is aws/US (ping 35)
+[00:00:17]: [IPC] Signal 'DST_Master_Starting' created  #00000A6C
+[00:00:17]: [IPC] Clearing pending signals #00000A6C...
+[00:00:17]: [IPC] Registering handler for signal #00000A6C
+[00:00:17]: [IPC] Handle #00000A6C added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Master_WorldGen' created  #00000A70
+[00:00:17]: [IPC] Clearing pending signals #00000A70...
+[00:00:17]: [IPC] Registering handler for signal #00000A70
+[00:00:17]: [IPC] Handle #00000A70 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Master_Ready' created  #00000A74
+[00:00:17]: [IPC] Clearing pending signals #00000A74...
+[00:00:17]: [IPC] Registering handler for signal #00000A74
+[00:00:17]: [IPC] Handle #00000A74 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Master_ErrPort' created  #00000A78
+[00:00:17]: [IPC] Clearing pending signals #00000A78...
+[00:00:17]: [IPC] Registering handler for signal #00000A78
+[00:00:17]: [IPC] Handle #00000A78 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000A7C
+[00:00:17]: [IPC] Clearing pending signals #00000A7C...
+[00:00:17]: [IPC] Registering handler for signal #00000A7C
+[00:00:17]: [IPC] Handle #00000A7C added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Master_Kill' created  #00000A80
+[00:00:17]: [IPC] Clearing pending signals #00000A80...
+[00:00:17]: [IPC] Signal 'DST_Slave_Starting' created  #00000A90
+[00:00:17]: [IPC] Clearing pending signals #00000A90...
+[00:00:17]: [IPC] Registering handler for signal #00000A90
+[00:00:17]: [IPC] Handle #00000A90 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Slave_WorldGen' created  #00000A8C
+[00:00:17]: [IPC] Clearing pending signals #00000A8C...
+[00:00:17]: [IPC] Registering handler for signal #00000A8C
+[00:00:17]: [IPC] Handle #00000A8C added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Slave_Ready' created  #00000A9C
+[00:00:17]: [IPC] Clearing pending signals #00000A9C...
+[00:00:17]: [IPC] Registering handler for signal #00000A9C
+[00:00:17]: [IPC] Handle #00000A9C added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Slave_ErrPort' created  #00000AA0
+[00:00:17]: [IPC] Clearing pending signals #00000AA0...
+[00:00:17]: [IPC] Registering handler for signal #00000AA0
+[00:00:17]: [IPC] Handle #00000AA0 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Slave_ErrStartup' created  #00000AA4
+[00:00:17]: [IPC] Clearing pending signals #00000AA4...
+[00:00:17]: [IPC] Registering handler for signal #00000AA4
+[00:00:17]: [IPC] Handle #00000AA4 added to the Eventhandles
+[00:00:17]: [IPC] Signal 'DST_Slave_Kill' created  #00000AA8
+[00:00:17]: [IPC] Clearing pending signals #00000AA8...
+[00:00:24]: [IPC] Received DST_Slave Starting signal !
+[00:00:24]: [IPC] Received DST_Master Starting signal !
+[00:00:40]: [IPC] Received DST_Master Ready signal !
+[00:00:44]: [IPC] Received DST_Slave Ready signal !
+[00:00:44]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:44]: [Connect] Init client connection to 127.0.0.1|10999
+[00:00:44]: [Connect] PendingConnection::Reset(true)
+[00:00:44]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:44]: [Connect] InternalInitClient <4439274545310554100>
+[00:00:44]: [Shard] Starting shard mode as player
+[00:00:44]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:00:44]: [Connect] Sending ping(s)...
+[00:00:44]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:00:44]: [Connect] Ping response from 127.0.0.1|10999
+[00:00:44]: [Connect] Joining server from ping response...
+[00:00:44]: Friends are currently playing in 0 games(s)!
+[00:00:44]: You belong to 2 clan(s)!
+[00:00:44]: [Connect] Got join server response from lua
+[00:00:45]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:45]: [200] Account Communication Success (13)
+[00:00:45]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:00:45]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:00:45]: Connection accepted to 127.0.0.1|10999 <5122293582677248261>
+[00:00:45]: Network external address discovered: 127.0.0.1|58130
+[00:00:45]: SendClientHandShakePacket to <5122293582677248261>
+[00:00:45]: DeserializeHandShakeServerListing
+[00:00:45]: Network tick rate: U=10(3), D=15
+[00:00:45]: Platform: 1
+[00:00:45]: Version: 298000
+[00:00:45]: [Steam] Game Connection initiated
+[00:00:45]: SendClientInventoryHandShakePacket to <5122293582677248261>
+[00:00:45]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:46]: Begin Session: 23931654FE820A95
+[00:00:46]: Done Downloading Client Object Data
+[00:00:46]: DownloadMods and temp disable	
+[00:00:46]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:46]: We now have the required mods, enable them for server	
+[00:00:46]: Temp Enabling workshop-347079953	
+[00:00:46]: Temp Enabling workshop-816057392	
+[00:00:46]: Temp Enabling workshop-458940297	
+[00:00:46]: Temp Enabling PrefabIDConcatenator	
+[00:00:46]: Temp Enabling workshop-375859599	
+[00:00:46]: ModIndex:SetTempModConfigData	
+[00:00:46]: Setting temp mod config for mod 	workshop-816057392	
+[00:00:46]: Setting temp mod config for mod 	PrefabIDConcatenator	
+[00:00:46]: Setting temp mod config for mod 	workshop-347079953	
+[00:00:46]: Setting temp mod config for mod 	workshop-458940297	
+[00:00:46]: Setting temp mod config for mod 	workshop-375859599	
+[00:00:46]: Mods are setup for server, save the mod index and proceed.	
+[00:00:46]: Downloading [0] From: server_temp
+[00:00:46]: 0 (36%) 1/1 server_temp\server_save 114000b / 312607b
+[00:00:46]: 0 (72%) 1/1 server_temp\server_save 228000b / 312607b
+[00:00:46]: 0 (100%) 1/1 server_temp\server_save 312607b / 312607b
+[00:00:46]: Download complete[0] Files: 1 Size: 312607
+[00:00:46]: Collecting garbage...
+[00:00:46]: lua_gc took 0.03 seconds
+[00:00:46]: ~ShardLuaProxy()
+[00:00:46]: ~cEventLeaderboardProxy()
+[00:00:46]: ~ItemServerLuaProxy()
+[00:00:46]: ~InventoryLuaProxy()
+[00:00:46]: ~NetworkLuaProxy()
+[00:00:46]: ~SimLuaProxy()
+[00:00:46]: Cancelling LuaQueryCallback handle [11]
+[00:00:46]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:46]: lua_close took 0.05 seconds
+[00:00:46]: ReleaseAll
+[00:00:46]: ReleaseAll Finished
+[00:00:46]: cGame::StartPlaying
+[00:00:46]: LOADING LUA
+[00:00:46]: DoLuaFile scripts/main.lua
+[00:00:46]: DoLuaFile loading buffer scripts/main.lua
+[00:00:46]:   taskgrouplist:	default	Together	
+[00:00:46]:   taskgrouplist:	classic	Classic	
+[00:00:46]:   taskgrouplist:	cave_default	Underground	
+[00:00:46]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:46]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:46]: running main.lua
+	
+[00:00:46]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:00:46]: loaded modindex	
+[00:00:46]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:47]: ModIndex: Beginning normal load sequence.
+	
+[00:00:47]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	ClientConsole	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	TorchCooking	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:00:47]: Could not load mod_config_data/modconfiguration_ClientConsole_CLIENT	
+[00:00:47]: Loading mod: ClientConsole (Client Console) Version:1.0	
+[00:00:47]: Could not load mod_config_data/modconfiguration_PrefabIDConcatenator_CLIENT	
+[00:00:47]: Loading mod: PrefabIDConcatenator (Prefab ID Concatenator(Git)) Version:1.0	
+[00:00:47]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:47]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:47]: Could not load mod_config_data/modconfiguration_TorchCooking_CLIENT	
+[00:00:47]: Loading mod: TorchCooking (Torch+) Version:1.0	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:47]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:47]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-458940297_CLIENT	
+[00:00:47]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:47]: Could not load mod_config_data/modconfiguration_workshop-816057392_CLIENT	
+[00:00:47]: Loading mod: workshop-816057392 (Combined Status Server Version) Version:1.6.14	
+[00:00:47]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:47]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:00:47]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:47]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:47]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:47]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: workshop-816057392 (Combined Status Server Version)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modmain.lua	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	ClientConsole	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	TorchCooking	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:00:47]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:00:47]: Mod: TorchCooking (Torch+)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: TorchCooking (Torch+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: TorchCooking (Torch+)	Loading modmain.lua	
+[00:00:47]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:47]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modworldgenmain.lua	
+[00:00:47]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modmain.lua	
+[00:00:47]: Mod: ClientConsole (Client Console)	Loading modworldgenmain.lua	
+[00:00:47]: Mod: ClientConsole (Client Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:47]: Mod: ClientConsole (Client Console)	Loading modmain.lua	
+[00:00:47]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:47]: LOADING LUA SUCCESS
+[00:00:47]: Registering mod namespace "foodvalues - itemtooltips"
+[00:00:47]: Registering mod namespace "food item"
+[00:00:48]: PlayerDeaths loaded morgue	5822	
+[00:00:48]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:48]: ServerPreferences loaded server_preferences	2	
+[00:00:48]: bloom_enabled	false	
+[00:00:48]: loaded saveindex	
+[00:00:48]: OnFilesLoaded()	
+[00:00:48]: OnUpdatePurchaseStateComplete	
+[00:00:48]: Loading world: client_temp/server_save	
+[00:00:48]: Save file is at version 4.77	
+[00:00:48]: Klump load on boot started.	
+[00:00:48]: Klump files loaded: 	0	
+[00:00:48]: 	Unload FE	
+[00:00:48]: 	Unload FE done	
+[00:00:51]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:00:51]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:00:51]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:51]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:51]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:51]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:51]: Mod: workshop-816057392 (Combined Status Server Version)	Registering prefabs	
+[00:00:51]: Mod: workshop-816057392 (Combined Status Server Version)	  Registering default mod prefab	
+[00:00:51]: Mod: TorchCooking (Torch+)	Registering prefabs	
+[00:00:51]: Mod: TorchCooking (Torch+)	  Registering default mod prefab	
+[00:00:51]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:51]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:51]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:51]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:51]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Registering prefabs	
+[00:00:51]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Registering default mod prefab	
+[00:00:51]: Mod: ClientConsole (Client Console)	Registering prefabs	
+[00:00:51]: Mod: ClientConsole (Client Console)	  Registering default mod prefab	
+[00:00:51]: 	LOAD BE	
+[00:00:54]: 	LOAD BE: done	
+[00:00:55]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:55]: MiniMapComponent::AddAtlas( ../mods/Quantum-Chest/minimap/treasurechest_quantum.xml )
+[00:00:55]: Loading 12 new character(s)	
+[00:00:55]: Total 12 character(s) loaded	
+[00:00:56]: Loading Nav Grid	
+[00:00:56]: setting 	summerlength	15	
+[00:00:56]: setting 	isnightmaredawn	false	
+[00:00:56]: setting 	elapseddaysinseason	1	
+[00:00:56]: setting 	isfullmoon	false	
+[00:00:56]: setting 	moisture	233.94927978516	
+[00:00:56]: setting 	springlength	20	
+[00:00:56]: setting 	isnightmarewild	false	
+[00:00:56]: setting 	moonphase	quarter	
+[00:00:56]: setting 	precipitationrate	0	
+[00:00:56]: setting 	iswet	false	
+[00:00:56]: setting 	isnewmoon	false	
+[00:00:56]: setting 	iswinter	false	
+[00:00:56]: setting 	israining	false	
+[00:00:56]: setting 	issummer	false	
+[00:00:56]: setting 	time	0.94138026237488	
+[00:00:56]: setting 	wetness	0	
+[00:00:56]: setting 	moistureceil	689.40582275391	
+[00:00:56]: setting 	isday	false	
+[00:00:56]: setting 	nightmaretimeinphase	0	
+[00:00:56]: setting 	season	autumn	
+[00:00:56]: setting 	isnight	true	
+[00:00:56]: setting 	cycles	1	
+[00:00:56]: setting 	isnightmarecalm	false	
+[00:00:56]: setting 	timeinphase	0.53104209899902	
+[00:00:56]: setting 	isdusk	false	
+[00:00:56]: setting 	iscavedusk	false	
+[00:00:56]: setting 	isautumn	true	
+[00:00:56]: setting 	iscaveday	false	
+[00:00:56]: setting 	remainingdaysinseason	19	
+[00:00:56]: setting 	phase	night	
+[00:00:56]: setting 	snowlevel	0	
+[00:00:56]: setting 	iswaxingmoon	true	
+[00:00:56]: setting 	autumnlength	20	
+[00:00:56]: setting 	pop	0.33934914975133	
+[00:00:56]: setting 	nightmaretime	0	
+[00:00:56]: setting 	isspring	false	
+[00:00:56]: setting 	winterlength	15	
+[00:00:56]: setting 	nightmarephase	none	
+[00:00:56]: setting 	issnowcovered	false	
+[00:00:56]: setting 	issnowing	false	
+[00:00:56]: setting 	iscavenight	true	
+[00:00:56]: setting 	temperature	22.778507976733	
+[00:00:56]: setting 	cavephase	night	
+[00:00:56]: setting 	precipitation	none	
+[00:00:56]: setting 	isnightmarewarn	false	
+[00:00:56]: OVERRIDE: setting	meteorshowers	to	rare	
+[00:00:56]: OVERRIDE: setting	hounds	to	rare	
+[00:00:56]: OVERRIDE: setting	bearger	to	never	
+[00:00:56]: OVERRIDE: setting	liefs	to	rare	
+[00:00:56]: OVERRIDE: setting	disease_delay	to	long	
+[00:00:56]: OVERRIDE: setting	deerclops	to	rare	
+[00:00:56]: OVERRIDE: setting	lureplants	to	rare	
+[00:00:56]: OVERRIDE: setting	goosemoose	to	never	
+[00:00:56]: OVERRIDE: setting	perd	to	never	
+[00:00:56]: OVERRIDE: setting	antliontribute	to	rare	
+[00:00:56]: OVERRIDE: setting	petrification	to	few	
+[00:00:56]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:00:56]: Reconstructing topology	
+[00:00:56]: 	...Sorting points	
+[00:00:56]: 	...Sorting edges	
+[00:00:56]: 	...Connecting nodes	
+[00:00:56]: 	...Validating connections	
+[00:00:56]: 	...Housekeeping	
+[00:00:56]: 	...Done!	
+[00:00:56]: ModIndex: Load sequence finished successfully.	
+[00:00:56]: Reset() returning
+[00:00:57]: Attempting to send resume request
+[00:00:57]: ReceiveResumeNotification
+[00:00:57]: Movement prediction enabled	
+[00:00:57]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:00:57]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:57]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:58]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:00:58]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:58]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:58]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:00:58]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:58]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:00:58]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:00:58]: Deserializing tile data (425 x 425)
+[00:00:58]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:00:58]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:00:58]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:02]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:04]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:04]: >> REPLICA: AttachClassified()	
+[00:01:04]: CLASSIFIED: InitializeSlots()	
+[00:01:04]: >> REPLICA: OpenContainer()	
+[00:01:04]: >> Replica:Open()	
+[00:01:04]: 100099 - wickerbottom	
+[00:01:04]: >> REPLICA: OnRefreshCrafting()	
+[00:01:04]: CLASSIFIED: RefreshCrafting()	
+[00:01:06]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:11]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:19]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:35]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:01:36]: CLASSIFIED: OnItemsDirty()	
+[00:01:36]: CLASSIFIED: RefreshCrafting()	
+[00:01:36]: CLASSIFIED: RefreshCrafting()	
+[00:01:58]: CLASSIFIED: OnItemsDirty()	
+[00:01:58]: CLASSIFIED: RefreshCrafting()	
+[00:01:58]: CLASSIFIED: RefreshCrafting()	
+[00:02:11]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:02:21]: >> REPLICA: DetachClassified()	
+[00:02:21]: >> Replica:Close()	
+[00:02:28]: SendRemoteExecute(c_godmode(), -308.432251, -250.657211)
+[00:02:35]: SendRemoteExecute(c_speedmult(2), -310.079407, -249.342545)
+[00:04:09]: SendRemoteExecute(c_speedmult(40), -495.612640, -166.890305)
+[00:04:16]: SendRemoteExecute(c_speedmult(2), -591.842346, -44.756390)
+[00:05:33]: SendRemoteExecute(for k,v in pairs(AllPlayers) do for x=-1600,1600,35 do for y=-1600,1600,35 do v.player_classified.MapExplorer:RevealArea(x,0,y) end end end, -708.002197, -83.649094)
+[00:06:04]: SendRemoteExecute(c_speedmult(40), -689.974365, -84.804321)
+[00:08:13]: SendRemoteExecute(c_give("shovel"), 188.255325, -159.077972)
+[00:08:19]: SendRemoteExecute(c_speedmult(2), 181.539825, -160.734711)
+[00:08:53]: SendRemoteExecute(TheWorld:PushEvent("ms_nextphase"), 184.202713, -173.387436)
+[00:08:53]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:10:15]: SendRemoteExecute(c_give("shovel"), 226.248260, -137.982162)
+[00:10:55]: SendRemoteExecute(c_spawn("flower_evil",100), 113.123116, -48.931900)
+[00:11:04]: SendRemoteExecute(c_give("hivehat"), 113.123116, -48.931900)
+[00:11:11]: SendRemoteExecute(c_godmode(), 114.708900, -40.562672)
+[00:11:11]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:11:28]: Invalid RPC data type
+[00:11:32]: Invalid RPC data type
+[00:11:32]: Invalid RPC data type
+[00:11:33]: Invalid RPC data type
+[00:11:34]: Invalid RPC data type
+[00:11:34]: Invalid RPC data type
+[00:11:35]: Invalid RPC data type
+[00:11:35]: Invalid RPC data type
+[00:11:35]: Invalid RPC data type
+[00:11:35]: Invalid RPC data type
+[00:11:36]: Invalid RPC data type
+[00:11:36]: Invalid RPC data type
+[00:11:36]: Invalid RPC data type
+[00:11:37]: Invalid RPC data type
+[00:11:37]: Invalid RPC data type
+[00:11:37]: Invalid RPC data type
+[00:11:38]: Invalid RPC data type
+[00:11:38]: Invalid RPC data type
+[00:11:42]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:12:08]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:12:21]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:12:32]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:12:51]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:12:52]: SendRemoteExecute(c_give("klaus_sack"), 191.215973, -130.880035)
+[00:12:54]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:13:02]: SendRemoteExecute(c_give("krampus_sack"), 189.415955, -127.084702)
+[00:13:03]: >> REPLICA: AttachClassified()	
+[00:13:03]: CLASSIFIED: InitializeSlots()	
+[00:13:03]: CLASSIFIED: RefreshCrafting()	
+[00:13:03]: >> REPLICA: OpenContainer()	
+[00:13:03]: >> Replica:Open()	
+[00:13:03]: 100099 - wickerbottom	
+[00:13:03]: >> REPLICA: OnRefreshCrafting()	
+[00:13:03]: ACTION CHECK, INVENTORY: container	
+[00:13:03]: ACTION CHECK, INVENTORY: container	
+[00:13:04]: ACTION CHECK, INVENTORY: container	
+[00:13:05]: CLASSIFIED: OnItemsDirty()	
+[00:13:05]: >> REPLICA: OnRefreshCrafting()	
+[00:13:05]: CLASSIFIED: RefreshCrafting()	
+[00:13:05]: CLASSIFIED: RefreshCrafting()	
+[00:13:05]: CLASSIFIED: RefreshCrafting()	
+[00:13:05]: CLASSIFIED: RefreshCrafting()	
+[00:13:07]: CLASSIFIED: OnItemsDirty()	
+[00:13:07]: >> REPLICA: OnRefreshCrafting()	
+[00:13:07]: CLASSIFIED: RefreshCrafting()	
+[00:13:07]: CLASSIFIED: RefreshCrafting()	
+[00:13:10]: CLASSIFIED: OnItemsDirty()	
+[00:13:10]: >> REPLICA: OnRefreshCrafting()	
+[00:13:10]: CLASSIFIED: RefreshCrafting()	
+[00:13:10]: CLASSIFIED: RefreshCrafting()	
+[00:13:10]: CLASSIFIED: OnItemsDirty()	
+[00:13:10]: >> REPLICA: OnRefreshCrafting()	
+[00:13:10]: CLASSIFIED: RefreshCrafting()	
+[00:13:11]: CLASSIFIED: RefreshCrafting()	
+[00:13:12]: CLASSIFIED: RefreshCrafting()	
+[00:13:12]: CLASSIFIED: RefreshCrafting()	
+[00:13:13]: CLASSIFIED: OnItemsDirty()	
+[00:13:13]: >> REPLICA: OnRefreshCrafting()	
+[00:13:13]: CLASSIFIED: RefreshCrafting()	
+[00:13:13]: CLASSIFIED: RefreshCrafting()	
+[00:13:15]: CLASSIFIED: RefreshCrafting()	
+[00:13:15]: CLASSIFIED: RefreshCrafting()	
+[00:13:16]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:13:16]: CLASSIFIED: RefreshCrafting()	
+[00:13:16]: CLASSIFIED: RefreshCrafting()	
+[00:13:24]: CLASSIFIED: OnItemsDirty()	
+[00:13:24]: >> REPLICA: OnRefreshCrafting()	
+[00:13:24]: CLASSIFIED: RefreshCrafting()	
+[00:13:25]: CLASSIFIED: RefreshCrafting()	
+[00:13:26]: CLASSIFIED: RefreshCrafting()	
+[00:13:26]: CLASSIFIED: RefreshCrafting()	
+[00:13:28]: CLASSIFIED: RefreshCrafting()	
+[00:13:28]: CLASSIFIED: RefreshCrafting()	
+[00:13:29]: CLASSIFIED: OnItemsDirty()	
+[00:13:29]: >> REPLICA: OnRefreshCrafting()	
+[00:13:29]: CLASSIFIED: RefreshCrafting()	
+[00:13:29]: CLASSIFIED: RefreshCrafting()	
+[00:13:31]: CLASSIFIED: OnItemsDirty()	
+[00:13:31]: >> REPLICA: OnRefreshCrafting()	
+[00:13:31]: CLASSIFIED: RefreshCrafting()	
+[00:13:31]: CLASSIFIED: RefreshCrafting()	
+[00:13:32]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:13:41]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:13:51]: CLASSIFIED: OnItemsDirty()	
+[00:13:51]: >> REPLICA: OnRefreshCrafting()	
+[00:13:51]: CLASSIFIED: RefreshCrafting()	
+[00:13:51]: CLASSIFIED: RefreshCrafting()	
+[00:13:52]: CLASSIFIED: RefreshCrafting()	
+[00:13:52]: CLASSIFIED: RefreshCrafting()	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:54]: ACTION CHECK, INVENTORY: container	
+[00:13:55]: ACTION CHECK, INVENTORY: container	
+[00:13:55]: ACTION CHECK, INVENTORY: container	
+[00:13:55]: ACTION CHECK, INVENTORY: container	
+[00:13:55]: ACTION CHECK, INVENTORY: container	
+[00:13:55]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:56]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:57]: ACTION CHECK, INVENTORY: container	
+[00:13:58]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:14:06]: Error deserializing lua state for entity player_classified[100944] - Failed to read net var data
+[00:14:06]: SendRemoteExecute(c_supergodmode(), 246.898132, -144.926193)
+[00:14:23]: ACTION CHECK, INVENTORY: container	
+[00:14:23]: >> REPLICA: OnRefreshCrafting()	
+[00:14:23]: CLASSIFIED: RefreshCrafting()	
+[00:14:23]: CLASSIFIED: OnItemsDirty()	
+[00:14:23]: >> REPLICA: OnRefreshCrafting()	
+[00:14:23]: CLASSIFIED: RefreshCrafting()	
+[00:14:23]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: >> REPLICA: OnRefreshCrafting()	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: CLASSIFIED: OnItemsDirty()	
+[00:14:28]: >> REPLICA: OnRefreshCrafting()	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: ACTION CHECK, INVENTORY: container	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: ACTION CHECK, INVENTORY: container	
+[00:14:28]: ACTION CHECK, INVENTORY: container	
+[00:14:28]: >> REPLICA: OnRefreshCrafting()	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: CLASSIFIED: OnItemsDirty()	
+[00:14:28]: >> REPLICA: OnRefreshCrafting()	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:28]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: >> REPLICA: OnRefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: CLASSIFIED: OnItemsDirty()	
+[00:14:31]: >> REPLICA: OnRefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: ACTION CHECK, INVENTORY: container	
+[00:14:31]: ACTION CHECK, INVENTORY: container	
+[00:14:31]: ACTION CHECK, INVENTORY: container	
+[00:14:31]: >> REPLICA: OnRefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: CLASSIFIED: OnItemsDirty()	
+[00:14:31]: >> REPLICA: OnRefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:31]: CLASSIFIED: RefreshCrafting()	
+[00:14:33]: >> REPLICA: OnRefreshCrafting()	
+[00:14:33]: CLASSIFIED: RefreshCrafting()	
+[00:14:34]: CLASSIFIED: OnItemsDirty()	
+[00:14:34]: >> REPLICA: OnRefreshCrafting()	
+[00:14:34]: CLASSIFIED: RefreshCrafting()	
+[00:14:34]: CLASSIFIED: RefreshCrafting()	
+[00:14:34]: ACTION CHECK, INVENTORY: container	
+[00:14:34]: ACTION CHECK, INVENTORY: container	
+[00:14:34]: ACTION CHECK, INVENTORY: container	
+[00:14:34]: ACTION CHECK, INVENTORY: container	
+[00:14:34]: >> REPLICA: OnRefreshCrafting()	
+[00:14:34]: CLASSIFIED: RefreshCrafting()	
+[00:14:34]: CLASSIFIED: OnItemsDirty()	
+[00:14:34]: >> REPLICA: OnRefreshCrafting()	
+[00:14:34]: CLASSIFIED: RefreshCrafting()	
+[00:14:34]: CLASSIFIED: RefreshCrafting()	
+[00:14:38]: ACTION CHECK, INVENTORY: container	
+[00:14:38]: ACTION CHECK, INVENTORY: container	
+[00:14:38]: >> REPLICA: OnRefreshCrafting()	
+[00:14:38]: CLASSIFIED: RefreshCrafting()	
+[00:14:38]: CLASSIFIED: OnItemsDirty()	
+[00:14:38]: >> REPLICA: OnRefreshCrafting()	
+[00:14:38]: CLASSIFIED: RefreshCrafting()	
+[00:14:38]: CLASSIFIED: RefreshCrafting()	
+[00:14:41]: ACTION CHECK, INVENTORY: container	
+[00:14:42]: ACTION CHECK, INVENTORY: container	
+[00:14:42]: >> REPLICA: OnRefreshCrafting()	
+[00:14:42]: CLASSIFIED: RefreshCrafting()	
+[00:14:42]: CLASSIFIED: OnItemsDirty()	
+[00:14:42]: >> REPLICA: OnRefreshCrafting()	
+[00:14:42]: CLASSIFIED: RefreshCrafting()	
+[00:14:42]: CLASSIFIED: RefreshCrafting()	
+[00:14:44]: ACTION CHECK, INVENTORY: container	
+[00:14:44]: ACTION CHECK, INVENTORY: container	
+[00:14:45]: >> REPLICA: OnRefreshCrafting()	
+[00:14:45]: CLASSIFIED: RefreshCrafting()	
+[00:14:45]: CLASSIFIED: OnItemsDirty()	
+[00:14:45]: >> REPLICA: OnRefreshCrafting()	
+[00:14:45]: CLASSIFIED: RefreshCrafting()	
+[00:14:45]: CLASSIFIED: RefreshCrafting()	
+[00:14:47]: ACTION CHECK, INVENTORY: container	
+[00:14:47]: >> REPLICA: OnRefreshCrafting()	
+[00:14:47]: CLASSIFIED: RefreshCrafting()	
+[00:14:47]: CLASSIFIED: OnItemsDirty()	
+[00:14:47]: >> REPLICA: OnRefreshCrafting()	
+[00:14:47]: CLASSIFIED: RefreshCrafting()	
+[00:14:47]: CLASSIFIED: RefreshCrafting()	
+[00:14:52]: >> REPLICA: OnRefreshCrafting()	
+[00:14:52]: CLASSIFIED: RefreshCrafting()	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:52]: CLASSIFIED: OnItemsDirty()	
+[00:14:52]: >> REPLICA: OnRefreshCrafting()	
+[00:14:52]: CLASSIFIED: RefreshCrafting()	
+[00:14:52]: CLASSIFIED: RefreshCrafting()	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:52]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:53]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:54]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:55]: ACTION CHECK, INVENTORY: container	
+[00:14:56]: ACTION CHECK, INVENTORY: container	
+[00:14:56]: ACTION CHECK, INVENTORY: container	
+[00:14:56]: ACTION CHECK, INVENTORY: container	
+[00:14:58]: ACTION CHECK, INVENTORY: container	
+[00:14:58]: ACTION CHECK, INVENTORY: container	
+[00:14:58]: ACTION CHECK, INVENTORY: container	
+[00:15:00]: ACTION CHECK, INVENTORY: container	
+[00:15:00]: ACTION CHECK, INVENTORY: container	
+[00:15:00]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:01]: ACTION CHECK, INVENTORY: container	
+[00:15:05]: CLASSIFIED: RefreshCrafting()	
+[00:15:05]: CLASSIFIED: RefreshCrafting()	
+[00:15:06]: CLASSIFIED: RefreshCrafting()	
+[00:15:06]: CLASSIFIED: RefreshCrafting()	
+[00:15:06]: CLASSIFIED: RefreshCrafting()	
+[00:15:06]: CLASSIFIED: RefreshCrafting()	
+[00:15:07]: CLASSIFIED: RefreshCrafting()	
+[00:15:07]: CLASSIFIED: RefreshCrafting()	
+[00:15:07]: CLASSIFIED: RefreshCrafting()	
+[00:15:07]: CLASSIFIED: RefreshCrafting()	
+[00:15:08]: CLASSIFIED: RefreshCrafting()	
+[00:15:08]: CLASSIFIED: RefreshCrafting()	
+[00:15:08]: CLASSIFIED: RefreshCrafting()	
+[00:15:08]: CLASSIFIED: RefreshCrafting()	
+[00:15:09]: CLASSIFIED: RefreshCrafting()	
+[00:15:09]: CLASSIFIED: RefreshCrafting()	
+[00:15:09]: CLASSIFIED: RefreshCrafting()	
+[00:15:09]: CLASSIFIED: RefreshCrafting()	
+[00:15:10]: CLASSIFIED: RefreshCrafting()	
+[00:15:10]: CLASSIFIED: RefreshCrafting()	
+[00:15:10]: CLASSIFIED: RefreshCrafting()	
+[00:15:10]: CLASSIFIED: RefreshCrafting()	
+[00:15:11]: CLASSIFIED: RefreshCrafting()	
+[00:15:11]: CLASSIFIED: RefreshCrafting()	
+[00:15:11]: CLASSIFIED: RefreshCrafting()	
+[00:15:11]: CLASSIFIED: RefreshCrafting()	
+[00:15:12]: CLASSIFIED: RefreshCrafting()	
+[00:15:12]: CLASSIFIED: RefreshCrafting()	
+[00:15:13]: CLASSIFIED: RefreshCrafting()	
+[00:15:13]: CLASSIFIED: RefreshCrafting()	
+[00:15:13]: CLASSIFIED: RefreshCrafting()	
+[00:15:13]: CLASSIFIED: RefreshCrafting()	
+[00:15:14]: CLASSIFIED: RefreshCrafting()	
+[00:15:14]: CLASSIFIED: RefreshCrafting()	
+[00:15:14]: CLASSIFIED: RefreshCrafting()	
+[00:15:14]: CLASSIFIED: RefreshCrafting()	
+[00:15:15]: CLASSIFIED: RefreshCrafting()	
+[00:15:15]: CLASSIFIED: RefreshCrafting()	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:19]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:20]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:21]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:22]: ACTION CHECK, INVENTORY: container	
+[00:15:58]: giving 	113475 - hammer	
+[00:15:58]: [string "scripts/consolecommands.lua"]:375: attempt to index field 'inventory' (a nil value)
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:00]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:01]: ACTION CHECK, INVENTORY: container	
+[00:16:06]: SendRemoteExecute(c_give("hammer"), 319.929535, -253.425461)
+[00:16:07]: ACTION CHECK, INVENTORY: container	
+[00:16:07]: ACTION CHECK, INVENTORY: container	
+[00:16:07]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:08]: ACTION CHECK, INVENTORY: container	
+[00:16:14]: SendRemoteExecute(TheWorld:PushEvent("ms_nextphase"), 324.603729, -251.124268)
+[00:16:14]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:17:42]: ACTION CHECK, INVENTORY: container	
+[00:17:42]: ACTION CHECK, INVENTORY: container	
+[00:17:42]: ACTION CHECK, INVENTORY: container	
+[00:17:43]: ACTION CHECK, INVENTORY: container	
+[00:17:43]: ACTION CHECK, INVENTORY: container	
+[00:17:43]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:46]: ACTION CHECK, INVENTORY: container	
+[00:17:47]: ACTION CHECK, INVENTORY: container	
+[00:17:47]: ACTION CHECK, INVENTORY: container	
+[00:17:47]: ACTION CHECK, INVENTORY: container	
+[00:17:49]: ACTION CHECK, INVENTORY: container	
+[00:17:49]: ACTION CHECK, INVENTORY: container	
+[00:17:49]: ACTION CHECK, INVENTORY: container	
+[00:17:49]: >> REPLICA: OnRefreshCrafting()	
+[00:17:49]: CLASSIFIED: RefreshCrafting()	
+[00:17:49]: CLASSIFIED: OnItemsDirty()	
+[00:17:49]: >> REPLICA: OnRefreshCrafting()	
+[00:17:49]: CLASSIFIED: RefreshCrafting()	
+[00:17:49]: CLASSIFIED: RefreshCrafting()	
+[00:17:51]: >> REPLICA: OnRefreshCrafting()	
+[00:17:51]: CLASSIFIED: RefreshCrafting()	
+[00:17:51]: CLASSIFIED: OnItemsDirty()	
+[00:17:51]: >> REPLICA: OnRefreshCrafting()	
+[00:17:51]: CLASSIFIED: RefreshCrafting()	
+[00:17:52]: CLASSIFIED: RefreshCrafting()	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:11]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:12]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:18:13]: ACTION CHECK, INVENTORY: container	
+[00:19:37]: DoRestart:	true	
+[00:19:39]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:19:39]: [Steam] Game Connection terminated (2130706433|10999)
+[00:19:39]: [Shard] Stopping shard mode
+[00:19:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:39]: [IPC] Sending signal... #00000A80
+[00:19:41]: [IPC] Unregistering handler for signal #00000A6C
+[00:19:41]: [IPC] Unregistering handler for signal #00000A70
+[00:19:41]: [IPC] Unregistering handler for signal #00000A74
+[00:19:41]: [IPC] Unregistering handler for signal #00000A78
+[00:19:41]: [IPC] Unregistering handler for signal #00000A7C
+[00:19:41]: [IPC] Sending signal... #00000AA8
+[00:19:42]: [IPC] Unregistering handler for signal #00000A90
+[00:19:42]: [IPC] Unregistering handler for signal #00000A8C
+[00:19:42]: [IPC] Unregistering handler for signal #00000A9C
+[00:19:42]: [IPC] Unregistering handler for signal #00000AA0
+[00:19:42]: [IPC] Unregistering handler for signal #00000AA4
+[00:19:42]: Collecting garbage...
+[00:19:42]: lua_gc took 0.04 seconds
+[00:19:42]: ~ShardLuaProxy()
+[00:19:42]: ~cEventLeaderboardProxy()
+[00:19:42]: ~ItemServerLuaProxy()
+[00:19:42]: ~InventoryLuaProxy()
+[00:19:42]: ~NetworkLuaProxy()
+[00:19:42]: ~SimLuaProxy()
+[00:19:42]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:42]: lua_close took 0.05 seconds
+[00:19:42]: ReleaseAll
+[00:19:42]: ReleaseAll Finished
+[00:19:42]: cGame::StartPlaying
+[00:19:42]: LOADING LUA
+[00:19:42]: DoLuaFile scripts/main.lua
+[00:19:42]: DoLuaFile loading buffer scripts/main.lua
+[00:19:42]:   taskgrouplist:	default	Together	
+[00:19:42]:   taskgrouplist:	classic	Classic	
+[00:19:42]:   taskgrouplist:	cave_default	Underground	
+[00:19:42]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:19:42]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:19:42]: running main.lua
+	
+[00:19:42]: unloading prefabs for mod MOD_workshop-458940297	
+[00:19:42]: unloading prefabs for mod MOD_workshop-347079953	
+[00:19:42]: unloading prefabs for mod MOD_workshop-375859599	
+[00:19:42]: unloading prefabs for mod MOD_workshop-816057392	
+[00:19:42]: unloading prefabs for mod MOD_TorchCooking	
+[00:19:42]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:19:42]: unloading prefabs for mod MOD_PrefabIDConcatenator	
+[00:19:42]: unloading prefabs for mod MOD_ClientConsole	
+[00:19:42]: loaded modindex	
+[00:19:42]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:42]: ModIndex: Beginning normal load sequence.
+	
+[00:19:42]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:42]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:19:42]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:19:42]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:19:42]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:19:42]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:19:42]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:19:42]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:19:42]: LOADING LUA SUCCESS
+[00:19:43]: PlayerDeaths loaded morgue	5822	
+[00:19:43]: PlayerHistory loaded player_history (v2) len:4970	
+[00:19:43]: ServerPreferences loaded server_preferences	2	
+[00:19:43]: bloom_enabled	false	
+[00:19:43]: loaded saveindex	
+[00:19:43]: OnFilesLoaded()	
+[00:19:43]: OnUpdatePurchaseStateComplete	
+[00:19:43]: Klump load on boot started.	
+[00:19:43]: Klump files loaded: 	0	
+[00:19:43]: 	Unload characters	
+[00:19:43]: 	Unload BE	
+[00:19:43]: 	Unload BE done	
+[00:19:44]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:19:44]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:19:44]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:19:44]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:19:44]: 	Load FE	
+[00:19:45]: 	Load FE: done	
+[00:19:45]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:19:45]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:19:45]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:19:45]: [MOTD] Downloading info	
+[00:19:45]: SimLuaProxy::QueryServer()
+[00:19:45]: ModIndex: Load sequence finished successfully.	
+[00:19:45]: Reset() returning
+[00:19:47]: [MOTD] Downloading image for box1
+[00:19:47]: [200] Account Communication Success (6)
+[00:19:47]: Received (KU_JnyuHjki) from TokenPurpose
+[00:19:47]: [Steam] Auth Session Ticket requested...
+[00:19:48]: There is no active event to get the status of.
+[00:19:48]: loaded inventory_cache_prod
+[00:19:48]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:19:48]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:19:48]: [Steam] Got Auth Session Ticket
+[00:19:48]: [MOTD] Done Loading.	
+[00:19:50]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:51]: Getting top mod details...
+[00:19:51]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:51]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:51]: GOT top mod details...50
+[00:19:51]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:52]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:53]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:54]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:55]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:56]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:57]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:58]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:19:59]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:00]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:01]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:04]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:05]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:06]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:07]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:08]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:09]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:10]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:11]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:12]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:13]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:14]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:17]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:18]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:19]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:21]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:22]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:23]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:24]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:25]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:26]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:27]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:29]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:30]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:33]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:34]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:35]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:20:36]: ### Error: Leaked entities in the frontend.	209	
+[00:20:36]: 100001	screenroot	true	false	100001 - 	
+[00:20:36]: 100002	overlayroot	true	false	100002 - 	
+[00:20:36]: 100003	Text	true	false	100003 - 	
+[00:20:36]: 100018	LoadingWidget	true	false	100018 - 	
+[00:20:36]: 100025	CancelTipWidget	true	false	100025 - 	
+[00:20:36]: Frontend-Unloading mod 'all'.	
+[00:20:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:38]: Collecting garbage...
+[00:20:38]: lua_gc took 0.03 seconds
+[00:20:38]: ~ShardLuaProxy()
+[00:20:38]: ~cEventLeaderboardProxy()
+[00:20:38]: ~ItemServerLuaProxy()
+[00:20:38]: ~InventoryLuaProxy()
+[00:20:38]: ~NetworkLuaProxy()
+[00:20:38]: ~SimLuaProxy()
+[00:20:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:38]: lua_close took 0.04 seconds
+[00:20:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:38]: [Steam] Auth ticket cancelled
+[00:20:38]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:20:38]: anim/structure_collapse_fx.zip - 1
+[00:20:38]: anim/gems.zip - 6
+[00:20:38]: anim/statue_ruins_small.zip - 4
+[00:20:38]: anim/statue_ruins.zip - 4
+[00:20:38]: anim/statue_ruins_small_gem.zip - 4
+[00:20:38]: anim/nightmarefuel.zip - 1
+[00:20:38]: anim/die.zip - 1
+[00:20:38]: anim/statue_ruins_gem.zip - 4
+[00:20:38]: anim/thulecite.zip - 1
+[00:20:38]: anim/statue_ruins_fx.zip - 1
+[00:20:38]: anim/marble.zip - 1
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:38]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:39]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:20:39]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[00:20:39]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[00:20:39]: anim/gems.zip:gems--atlas-0.tex - 1
+[00:20:39]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[00:20:39]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[00:20:39]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[00:20:39]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[00:20:39]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[00:20:39]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[00:20:39]: anim/marble.zip:marble--atlas-0.tex - 1
+[00:20:39]: anim/die.zip:die--atlas-0.tex - 1
+[00:20:39]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[00:20:39]: CurlRequestManager::ClientThread::Main() complete
+[00:20:39]: HttpClient2 discarded 0 callbacks.
+[00:20:39]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.0ms!
+[00:20:39]: Shutting down

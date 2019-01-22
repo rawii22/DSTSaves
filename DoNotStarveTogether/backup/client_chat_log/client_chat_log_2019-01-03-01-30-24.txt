@@ -1,2 +1,0 @@
-[00:01:45]: [Say] (KU_JnyuHjki) albertoromañach: -g c_announce("Hello world!")
-[00:01:45]: [KU_JnyuHjkiAnnouncement] -g c_announce("Hello world!")

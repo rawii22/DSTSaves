@@ -1,0 +1,4 @@
+[00:04:29]: [Join Announcement] rawii22
+[00:05:16]: [Join Announcement] albertoromañach
+[00:10:06]: [Leave Announcement] albertoromañach
+[00:10:07]: [Leave Announcement] rawii22

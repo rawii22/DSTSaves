@@ -1,0 +1,897 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 62%
+	Available Physical Memory: 6159m/16287m
+	Available Page File: 8471m/49214m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 264k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 5m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Sun Jan 06 15:07:05 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 3366554
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (117580)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip skipped.
+[00:00:00]: ProfileIndex:4.95
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (111340)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (110944)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198246628238
+[00:00:01]: SteamID: 76561198246628238
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-4702HQ CPU @ 2.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 4600
+    driverDate                20160929000000.000000-000
+    megsOfRam                 1024
+    refreshRate               29
+    videoModeDescription      2048 x 1152 x 4294967296 colors
+    driverVersion             20.19.15.4531
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 4096,2179 - 5/6/5 - -1/-1/-1 - 0
+[00:00:02]: CreateEGLContext: 12 configs found
+[00:00:02]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:02]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:02]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:02]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:02]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:02]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:02]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:02]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:02]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:02]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:02]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:02]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:02]: RestoreWindowPosition
+[00:00:02]:    Saved Client Pos (0 x 125)
+[00:00:02]:    Adjusted Window Pos (-13 x 67)
+[00:00:02]: EnsureWindowOnScreen
+[00:00:02]:    All good.
+[00:00:02]: GLInfo
+[00:00:02]: ~~~~~~
+[00:00:02]: GL_VENDOR: Google Inc.
+[00:00:02]: GL_RENDERER: ANGLE (NVIDIA Quadro K1100M)
+[00:00:02]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:02]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:02]: THREAD - started 'WindowsInputManager' (115464)
+[00:00:02]: OpenGL extensions (19, 19):
+[00:00:02]: GL_ANGLE_depth_texture
+[00:00:02]: GL_ANGLE_framebuffer_blit
+[00:00:02]: GL_ANGLE_framebuffer_multisample
+[00:00:02]: GL_ANGLE_instanced_arrays
+[00:00:02]: GL_ANGLE_pack_reverse_row_order
+[00:00:02]: GL_ANGLE_texture_compression_dxt3
+[00:00:02]: GL_ANGLE_texture_compression_dxt5
+[00:00:02]: GL_ANGLE_texture_usage
+[00:00:02]: GL_ANGLE_translated_shader_source
+[00:00:02]: GL_EXT_read_format_bgra
+[00:00:02]: GL_EXT_robustness
+[00:00:02]: GL_EXT_texture_compression_dxt1
+[00:00:02]: GL_EXT_texture_format_BGRA8888
+[00:00:02]: GL_EXT_texture_storage
+[00:00:02]: GL_OES_get_program_binary
+[00:00:02]: GL_OES_packed_depth_stencil
+[00:00:02]: GL_OES_rgb8_rgba8
+[00:00:02]: GL_OES_standard_derivatives
+[00:00:02]: GL_OES_texture_npot
+[00:00:02]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:02]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:02]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:02]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:02]: GL_MAX_VARYING_VECTORS = 10
+[00:00:02]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:02]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:02]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:02]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:02]: 4 compressed texture formats
+[00:00:02]: texture format 0x83f0
+[00:00:02]: texture format 0x83f1
+[00:00:02]: texture format 0x83f2
+[00:00:02]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:03]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:03]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: Ping measurement completed
+[00:00:04]: Ping location: atl=12+1,ord=18+1,iad=26+2/25+1,okc=35+3/35+1,lax=67+6/56+1,sea=70+7/62+1,mwh=76+7/70+1,lhr=101+10/97+1,ams=105+10/103+1,fra=113+11/115+1,gru=134+13/143+1,sgp=239+23/237+16
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	5822	
+[00:00:05]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:05]: ServerPreferences loaded server_preferences	2	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:00:07]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:00:08]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (105900)
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:08]: FilesExistAsyncThread started (19890 files)...
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:08]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:08]: [MOTD] Downloading info	
+[00:00:08]: SimLuaProxy::QueryServer()
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:10]: [Steam] Auth Session Ticket requested...
+[00:00:11]: [MOTD] Downloading image for box1
+[00:00:11]: [Steam] Got Auth Session Ticket
+[00:00:11]: ... FilesExistAsyncThread complete
+[00:00:11]: [200] Account Communication Success (3)
+[00:00:11]: Logging in as KU_JnyuHjki
+[00:00:11]: [MOTD] Done Loading.	
+[00:00:12]: There is no active event to get the status of.
+[00:00:12]: loaded inventory_cache_prod
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:15]: Getting top mod details...
+[00:00:15]: Frontend-Unloading mod 'all'.	
+[00:00:15]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:00:15]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-382177939	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:15]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:15]: FrontendLoadMod	TorchCooking	
+[00:00:15]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:00:15]: Fontend-Loading mod: TorchCooking (Torch+) Version:1.0	
+[00:00:15]: Mod: TorchCooking (Torch+)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: TorchCooking (Torch+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	ClientConsole	
+[00:00:15]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:15]: Fontend-Loading mod: ClientConsole (Client Console) Version:1.0	
+[00:00:15]: Mod: ClientConsole (Client Console)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: ClientConsole (Client Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	workshop-382177939	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-382177939	
+[00:00:15]: Fontend-Loading mod: workshop-382177939 (DST Storm Cellar) Version:1.8	
+[00:00:15]: Mod: workshop-382177939 (DST Storm Cellar)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-382177939 (DST Storm Cellar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	workshop-375859599	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:15]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:15]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	PrefabIDConcatenator	
+[00:00:15]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:15]: Fontend-Loading mod: PrefabIDConcatenator (Prefab ID Concatenator(Git)) Version:1.0	
+[00:00:15]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modworldgenmain.lua	
+[00:00:15]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	workshop-458940297	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:15]: Fontend-Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:15]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:16]: GOT top mod details...50
+[00:00:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:17]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:18]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:19]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:20]: Frontend-Unloading mod 'all'.	
+[00:00:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:21]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:22]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:23]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:24]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:25]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:26]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:27]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:28]: Frontend-Unloading mod 'all'.	
+[00:00:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:29]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:30]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:33]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:34]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:35]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:36]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:37]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:38]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:39]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:40]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:41]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:42]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:42]: FrontendLoadMod	ClientConsole	
+[00:00:42]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:00:42]: Fontend-Loading mod: ClientConsole (Client Console) Version:1.0	
+[00:00:42]: Mod: ClientConsole (Client Console)	Loading modworldgenmain.lua	
+[00:00:42]: Mod: ClientConsole (Client Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:43]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:44]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:44]: FrontendLoadMod	workshop-347079953	
+[00:00:44]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:44]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:45]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:45]: FrontendLoadMod	workshop-816057392	
+[00:00:45]: loaded mod_config_data/modconfiguration_workshop-816057392	
+[00:00:45]: Fontend-Loading mod: workshop-816057392 (Combined Status Server Version) Version:1.6.14	
+[00:00:45]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modworldgenmain.lua	
+[00:00:45]: Mod: workshop-816057392 (Combined Status Server Version)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:46]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:47]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:48]: FrontendLoadMod	workshop-458940297	
+[00:00:48]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:00:48]: Fontend-Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:00:48]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:00:48]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:48]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:49]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:49]: FrontendLoadMod	workshop-375859599	
+[00:00:49]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:49]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:49]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:49]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:50]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:51]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:52]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:53]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:54]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:55]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:56]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:57]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:58]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:58]: FrontendLoadMod	PrefabIDConcatenator	
+[00:00:58]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:00:58]: Fontend-Loading mod: PrefabIDConcatenator (Prefab ID Concatenator(Git)) Version:1.0	
+[00:00:58]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modworldgenmain.lua	
+[00:00:58]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:59]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:59]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:59]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:00]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:01]: FrontendLoadMod	TorchCooking	
+[00:01:01]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:01:01]: Fontend-Loading mod: TorchCooking (Torch+) Version:1.0	
+[00:01:01]: Mod: TorchCooking (Torch+)	Loading modworldgenmain.lua	
+[00:01:01]: Mod: TorchCooking (Torch+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:03]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:04]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:05]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:06]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:07]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:08]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:09]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:10]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:11]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:12]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:13]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:14]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:15]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:16]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:17]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:18]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:19]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:20]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:21]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:22]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:23]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:24]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:25]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:26]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:27]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:28]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:29]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:30]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:33]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:34]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:35]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:36]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:37]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:38]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:39]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:40]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:41]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:42]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:43]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:44]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:45]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:46]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:47]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:48]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:49]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:50]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:51]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:52]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:53]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:54]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:01:55]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:01:55]: loaded mod_config_data/modconfiguration_TorchCooking	
+[00:01:55]: loaded mod_config_data/modconfiguration_ClientConsole	
+[00:01:55]: loaded mod_config_data/modconfiguration_workshop-816057392	
+[00:01:55]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:01:55]: loaded mod_config_data/modconfiguration_PrefabIDConcatenator	
+[00:01:55]: loaded mod_config_data/modconfiguration_workshop-458940297	
+[00:01:55]: Not applying level data overrides.	
+[00:01:55]: Not applying world gen overrides.	
+[00:01:55]: Best lobby region is aws/US (ping 34)
+[00:01:55]: [IPC] Signal 'DST_Master_Starting' created  #000009F4
+[00:01:55]: [IPC] Clearing pending signals #000009F4...
+[00:01:55]: [IPC] Registering handler for signal #000009F4
+[00:01:55]: [IPC] Handle #000009F4 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Master_WorldGen' created  #0000083C
+[00:01:55]: [IPC] Clearing pending signals #0000083C...
+[00:01:55]: [IPC] Registering handler for signal #0000083C
+[00:01:55]: [IPC] Handle #0000083C added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Master_Ready' created  #00000A2C
+[00:01:55]: [IPC] Clearing pending signals #00000A2C...
+[00:01:55]: [IPC] Registering handler for signal #00000A2C
+[00:01:55]: [IPC] Handle #00000A2C added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Master_ErrPort' created  #00000A30
+[00:01:55]: [IPC] Clearing pending signals #00000A30...
+[00:01:55]: [IPC] Registering handler for signal #00000A30
+[00:01:55]: [IPC] Handle #00000A30 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000A24
+[00:01:55]: [IPC] Clearing pending signals #00000A24...
+[00:01:55]: [IPC] Registering handler for signal #00000A24
+[00:01:55]: [IPC] Handle #00000A24 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Master_Kill' created  #00000A28
+[00:01:55]: [IPC] Clearing pending signals #00000A28...
+[00:01:55]: [IPC] Signal 'DST_Slave_Starting' created  #00000A14
+[00:01:55]: [IPC] Clearing pending signals #00000A14...
+[00:01:55]: [IPC] Registering handler for signal #00000A14
+[00:01:55]: [IPC] Handle #00000A14 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Slave_WorldGen' created  #00000A08
+[00:01:55]: [IPC] Clearing pending signals #00000A08...
+[00:01:55]: [IPC] Registering handler for signal #00000A08
+[00:01:55]: [IPC] Handle #00000A08 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Slave_Ready' created  #00000A10
+[00:01:55]: [IPC] Clearing pending signals #00000A10...
+[00:01:55]: [IPC] Registering handler for signal #00000A10
+[00:01:55]: [IPC] Handle #00000A10 added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Slave_ErrPort' created  #00000A1C
+[00:01:55]: [IPC] Clearing pending signals #00000A1C...
+[00:01:55]: [IPC] Registering handler for signal #00000A1C
+[00:01:55]: [IPC] Handle #00000A1C added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Slave_ErrStartup' created  #0000049C
+[00:01:55]: [IPC] Clearing pending signals #0000049C...
+[00:01:55]: [IPC] Registering handler for signal #0000049C
+[00:01:55]: [IPC] Handle #0000049C added to the Eventhandles
+[00:01:55]: [IPC] Signal 'DST_Slave_Kill' created  #000004B8
+[00:01:55]: [IPC] Clearing pending signals #000004B8...
+[00:02:02]: [IPC] Received DST_Slave Starting signal !
+[00:02:02]: [IPC] Received DST_Master Starting signal !
+[00:02:04]: [IPC] Received DST_Master WorldGen signal !
+[00:02:04]: [IPC] Received DST_Slave WorldGen signal !
+[00:02:26]: [IPC] Received DST_Master Ready signal !
+[00:02:31]: [IPC] Received DST_Slave Ready signal !
+[00:02:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:31]: [Connect] Init client connection to 127.0.0.1|10999
+[00:02:31]: [Connect] PendingConnection::Reset(true)
+[00:02:31]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:31]: [Connect] InternalInitClient <4204133523347553122>
+[00:02:31]: [Shard] Starting shard mode as player
+[00:02:31]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:02:31]: [Connect] Sending ping(s)...
+[00:02:31]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:02:31]: [Connect] Ping response from 127.0.0.1|10999
+[00:02:31]: [Connect] Joining server from ping response...
+[00:02:31]: Friends are currently playing in 0 games(s)!
+[00:02:31]: You belong to 2 clan(s)!
+[00:02:31]: [Connect] Got join server response from lua
+[00:02:31]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:31]: [200] Account Communication Success (13)
+[00:02:31]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:02:31]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:02:31]: Connection accepted to 127.0.0.1|10999 <6485881559486185973>
+[00:02:31]: Network external address discovered: 127.0.0.1|54845
+[00:02:31]: SendClientHandShakePacket to <6485881559486185973>
+[00:02:31]: DeserializeHandShakeServerListing
+[00:02:31]: Network tick rate: U=10(3), D=15
+[00:02:31]: Platform: 1
+[00:02:31]: Version: 298000
+[00:02:31]: [Steam] Game Connection initiated
+[00:02:31]: SendClientInventoryHandShakePacket to <6485881559486185973>
+[00:02:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:32]: Begin Session: 23931654FE820A95
+[00:02:32]: Done Downloading Client Object Data
+[00:02:32]: DownloadMods and temp disable	
+[00:02:32]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:32]: We now have the required mods, enable them for server	
+[00:02:32]: Temp Enabling workshop-347079953	
+[00:02:32]: Temp Enabling workshop-816057392	
+[00:02:32]: Temp Enabling workshop-458940297	
+[00:02:32]: Temp Enabling PrefabIDConcatenator	
+[00:02:32]: Temp Enabling workshop-375859599	
+[00:02:32]: ModIndex:SetTempModConfigData	
+[00:02:32]: Setting temp mod config for mod 	workshop-816057392	
+[00:02:32]: Setting temp mod config for mod 	PrefabIDConcatenator	
+[00:02:32]: Setting temp mod config for mod 	workshop-347079953	
+[00:02:32]: Setting temp mod config for mod 	workshop-458940297	
+[00:02:32]: Setting temp mod config for mod 	workshop-375859599	
+[00:02:32]: Mods are setup for server, save the mod index and proceed.	
+[00:02:32]: Downloading [0] From: server_temp
+[00:02:32]: 0 (38%) 1/1 server_temp\server_save 114000b / 291923b
+[00:02:32]: 0 (77%) 1/1 server_temp\server_save 228000b / 291923b
+[00:02:32]: 0 (100%) 1/1 server_temp\server_save 291923b / 291923b
+[00:02:32]: Download complete[0] Files: 1 Size: 291923
+[00:02:32]: Collecting garbage...
+[00:02:32]: lua_gc took 0.03 seconds
+[00:02:32]: ~ShardLuaProxy()
+[00:02:32]: ~cEventLeaderboardProxy()
+[00:02:32]: ~ItemServerLuaProxy()
+[00:02:32]: ~InventoryLuaProxy()
+[00:02:32]: ~NetworkLuaProxy()
+[00:02:32]: ~SimLuaProxy()
+[00:02:32]: Cancelling LuaQueryCallback handle [11]
+[00:02:32]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:32]: lua_close took 0.05 seconds
+[00:02:32]: ReleaseAll
+[00:02:32]: ReleaseAll Finished
+[00:02:32]: cGame::StartPlaying
+[00:02:33]: LOADING LUA
+[00:02:33]: DoLuaFile scripts/main.lua
+[00:02:33]: DoLuaFile loading buffer scripts/main.lua
+[00:02:33]:   taskgrouplist:	default	Together	
+[00:02:33]:   taskgrouplist:	classic	Classic	
+[00:02:33]:   taskgrouplist:	cave_default	Underground	
+[00:02:33]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:02:33]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:02:33]: running main.lua
+	
+[00:02:33]: unloading prefabs for mod MOD_Quantum-Chest	
+[00:02:33]: loaded modindex	
+[00:02:33]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:33]: ModIndex: Beginning normal load sequence.
+	
+[00:02:33]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	ClientConsole	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	TorchCooking	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:02:33]: Could not load mod_config_data/modconfiguration_ClientConsole_CLIENT	
+[00:02:33]: Loading mod: ClientConsole (Client Console) Version:1.0	
+[00:02:33]: Could not load mod_config_data/modconfiguration_PrefabIDConcatenator_CLIENT	
+[00:02:33]: Loading mod: PrefabIDConcatenator (Prefab ID Concatenator(Git)) Version:1.0	
+[00:02:33]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:02:33]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:02:33]: Could not load mod_config_data/modconfiguration_TorchCooking_CLIENT	
+[00:02:33]: Loading mod: TorchCooking (Torch+) Version:1.0	
+[00:02:33]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:02:33]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:02:33]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:02:33]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:02:33]: Could not load mod_config_data/modconfiguration_workshop-458940297_CLIENT	
+[00:02:33]: Loading mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client)) Version:2.5	
+[00:02:33]: Could not load mod_config_data/modconfiguration_workshop-816057392_CLIENT	
+[00:02:33]: Loading mod: workshop-816057392 (Combined Status Server Version) Version:1.6.14	
+[00:02:33]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modworldgenmain.lua	
+[00:02:33]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Loading modmain.lua	
+[00:02:33]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:02:33]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:02:33]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:02:33]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: workshop-816057392 (Combined Status Server Version)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: workshop-816057392 (Combined Status Server Version)	Loading modmain.lua	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	ClientConsole	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	PrefabIDConcatenator	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	TorchCooking	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458940297	
+[00:02:33]: ModIndex:GetModsToLoad inserting moddir, 	workshop-816057392	
+[00:02:33]: Mod: TorchCooking (Torch+)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: TorchCooking (Torch+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: TorchCooking (Torch+)	Loading modmain.lua	
+[00:02:33]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:02:33]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modworldgenmain.lua	
+[00:02:33]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Loading modmain.lua	
+[00:02:33]: Mod: ClientConsole (Client Console)	Loading modworldgenmain.lua	
+[00:02:33]: Mod: ClientConsole (Client Console)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:02:33]: Mod: ClientConsole (Client Console)	Loading modmain.lua	
+[00:02:34]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:02:34]: LOADING LUA SUCCESS
+[00:02:34]: Registering mod namespace "foodvalues - itemtooltips"
+[00:02:34]: Registering mod namespace "food item"
+[00:02:34]: PlayerDeaths loaded morgue	5822	
+[00:02:34]: PlayerHistory loaded player_history (v2) len:4970	
+[00:02:34]: ServerPreferences loaded server_preferences	2	
+[00:02:34]: bloom_enabled	false	
+[00:02:34]: loaded saveindex	
+[00:02:34]: OnFilesLoaded()	
+[00:02:34]: OnUpdatePurchaseStateComplete	
+[00:02:34]: Loading world: client_temp/server_save	
+[00:02:34]: Save file is at version 4.77	
+[00:02:34]: Klump load on boot started.	
+[00:02:34]: Klump files loaded: 	0	
+[00:02:34]: 	Unload FE	
+[00:02:34]: 	Unload FE done	
+[00:02:38]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	Registering prefabs	
+[00:02:38]: Mod: workshop-458940297 (Food Values - Item Tooltips (Server and Client))	  Registering default mod prefab	
+[00:02:38]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:02:38]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:02:38]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:02:38]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:02:38]: Mod: workshop-816057392 (Combined Status Server Version)	Registering prefabs	
+[00:02:38]: Mod: workshop-816057392 (Combined Status Server Version)	  Registering default mod prefab	
+[00:02:38]: Mod: TorchCooking (Torch+)	Registering prefabs	
+[00:02:38]: Mod: TorchCooking (Torch+)	  Registering default mod prefab	
+[00:02:38]: Mod: Quantum-Chest (Quantum Chest)	Registering prefabs	
+[00:02:38]: Mod: Quantum-Chest (Quantum Chest)	  Registering prefab file: prefabs/treasurechest_quantum	
+[00:02:38]: Mod: Quantum-Chest (Quantum Chest)	    treasurechest_quantum	
+[00:02:38]: Mod: Quantum-Chest (Quantum Chest)	  Registering default mod prefab	
+[00:02:38]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	Registering prefabs	
+[00:02:38]: Mod: PrefabIDConcatenator (Prefab ID Concatenator(Git))	  Registering default mod prefab	
+[00:02:38]: Mod: ClientConsole (Client Console)	Registering prefabs	
+[00:02:38]: Mod: ClientConsole (Client Console)	  Registering default mod prefab	
+[00:02:38]: 	LOAD BE	
+[00:02:42]: 	LOAD BE: done	
+[00:02:42]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:02:42]: MiniMapComponent::AddAtlas( ../mods/Quantum-Chest/minimap/treasurechest_quantum.xml )
+[00:02:42]: Loading 12 new character(s)	
+[00:02:43]: Total 12 character(s) loaded	
+[00:02:43]: Loading Nav Grid	
+[00:02:43]: OVERRIDE: setting	hounds	to	rare	
+[00:02:43]: OVERRIDE: setting	bearger	to	never	
+[00:02:43]: OVERRIDE: setting	goosemoose	to	never	
+[00:02:43]: OVERRIDE: setting	perd	to	never	
+[00:02:43]: OVERRIDE: setting	lureplants	to	rare	
+[00:02:43]: OVERRIDE: setting	meteorshowers	to	rare	
+[00:02:43]: OVERRIDE: setting	liefs	to	rare	
+[00:02:43]: OVERRIDE: setting	disease_delay	to	long	
+[00:02:43]: OVERRIDE: setting	deerclops	to	rare	
+[00:02:43]: OVERRIDE: setting	frograin	to	never	
+[00:02:43]: OVERRIDE: setting	antliontribute	to	rare	
+[00:02:43]: OVERRIDE: setting	wildfires	to	rare	
+[00:02:43]: OVERRIDE: setting	petrification	to	few	
+[00:02:43]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:02:43]: removing onetime override	frograin	
+[00:02:43]: removing onetime override	wildfires	
+[00:02:43]: Reconstructing topology	
+[00:02:43]: 	...Sorting points	
+[00:02:43]: 	...Sorting edges	
+[00:02:43]: 	...Connecting nodes	
+[00:02:43]: 	...Validating connections	
+[00:02:43]: 	...Housekeeping	
+[00:02:43]: 	...Done!	
+[00:02:44]: ModIndex: Load sequence finished successfully.	
+[00:02:44]: Reset() returning
+[00:02:45]: Attempting to send resume request
+[00:02:45]: ReceiveResumeNotification
+[00:02:45]: Deleting user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'avatar_winona.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture 'avatar_unknown.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:02:45]: WARNING! Could not find region 'avatar_random.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:02:45]: Looking for default texture 'avatar_unknown.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: Movement prediction enabled	
+[00:03:28]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:03:28]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:03:28]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: WARNING! Could not find region 'loading_indicator.tex' from atlas '../mods/workshop-816057392/images/avatars.xml'. Is the region specified in the atlas?
+[00:03:28]: Looking for default texture '' from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: Error Looking for default texture in from atlas '../mods/workshop-816057392/images/avatars.xml'.
+[00:03:28]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:28]: Deserializing tile data (425 x 425)
+[00:03:28]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:03:30]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:34]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:35]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:35]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:37]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:38]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:38]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:03:54]: SendRemoteExecute(c_spawn("flower_evil",100), -344.200073, 63.499340)
+[00:04:03]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:04:21]: SendRemoteExecute(c_give("beehat"), -344.059448, 64.040634)
+[00:04:34]: SendRemoteExecute(c_give("beequeenhat"), -343.014099, 66.476585)
+[00:04:35]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:04:41]: SendRemoteExecute(c_godmode(), -343.014099, 66.476585)
+[00:05:14]: giving 	104088 - hivehat	
+[00:05:14]: [string "scripts/consolecommands.lua"]:375: attempt to index field 'inventory' (a nil value)
+[00:05:25]: giving 	104126 - hivehat	
+[00:05:25]: [string "scripts/consolecommands.lua"]:375: attempt to index field 'inventory' (a nil value)
+[00:05:39]: SendRemoteExecute(c_give("hivehat"), -342.377686, 65.055664)
+[00:05:47]: SendRemoteExecute(c_godmode(), -342.283234, 68.634537)
+[00:05:47]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:05:49]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:06:07]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:06:16]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:06:18]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:06:27]: SendRemoteExecute(c_give("hamer"), -371.480164, 56.917755)
+[00:06:31]: SendRemoteExecute(c_give("hammer"), -371.339752, 56.917755)
+[00:06:49]: Error deserializing lua state for entity player_classified[102529] - Failed to read net var data
+[00:07:05]: SendRemoteExecute(c_godmode(), -361.276733, 84.102234)
+[00:07:44]: SendRemoteExecute(c_spawn("beequeenhive"), -374.344696, 90.389709)
+[00:09:22]: SendRemoteExecute(c_spawn("shovel"), -306.199738, 99.729736)
+[00:10:17]: Invalid RPC data type
+[00:10:50]: SendRemoteExecute(c_spawn("campfire"), -264.903656, 151.563553)
+[00:11:06]: SendRemoteExecute(c_spawn("coldfire"), -263.587952, 147.478653)
+[00:11:28]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:12:03]: SendRemoteExecute(c_speedmult(2), -205.487106, 103.878769)
+[00:13:36]: SendRemoteExecute(c_give("spear"), -239.894592, -5.000921)
+[00:14:37]: SendRemoteExecute(c_give("tentaclespike"), -236.527176, -19.035774)
+[00:16:59]: CLASSIFIED: OnEntityReplicated()	
+[00:16:59]: [string "scripts/prefabs/container_classified.lua"]:57: attempt to concatenate a table value
+LUA ERROR stack traceback:
+scripts/prefabs/container_classified.lua:57 in (method) OnEntityReplicated (Lua) <54-67>
+   inst = 111607 - container_classified (valid:true)
+scripts/entityreplica.lua:82 in (method) ReplicateEntity (Lua) <74-84>
+   self (valid:true) =
+      GUID = 111607
+      TakeActionItem = function - scripts/prefabs/container_classified.lua:653
+      inlimbo = false
+      SwapActiveItemWithSlot = function - scripts/prefabs/container_classified.lua:493
+      TakeActiveItemFromAllOfSlot = function - scripts/prefabs/container_classified.lua:443
+      InitializeSlots = function - scripts/prefabs/container_classified.lua:8
+      Network = Network (38AE3A80)
+      pendingtasks = table: 1FCAAA50
+      IsFull = function - scripts/prefabs/container_classified.lua:132
+      _itemspool = table: 1FCAA7A8
+      IsHolding = function - scripts/prefabs/container_classified.lua:81
+      TakeActiveItemFromHalfOfSlot = function - scripts/prefabs/container_classified.lua:426
+      _busy = true
+      ReturnActiveItemToSlot = function - scripts/prefabs/container_classified.lua:384
+      GetItemInSlot = function - scripts/prefabs/container_classified.lua:97
+      actionreplica = table: 1FCA9538
+      event_listening = table: 1FCA9A38
+      GetItems = function - scripts/prefabs/container_classified.lua:104
+      actioncomponents = table: 1FCA92E0
+      lower_components_shadow = table: 1FCA94E8
+      AddOneOfActiveItemToSlot = function - scripts/prefabs/container_classified.lua:458
+      _parent = 111515 - treasurechest (valid:true)
+      entity = Entity (3CB60888)
+      name = MISSING NAME
+      AddAllOfActiveItemToSlot = function - scripts/prefabs/container_classified.lua:472
+      MoveItemFromAllOfSlot = function - scripts/prefabs/container_classified.lua:510
+      prefab = container_classified
+      ReceiveItem = function - scripts/prefabs/container_classified.lua:570
+      IsBusy = function - scripts/prefabs/container_classified.lua:69
+      persists = true
+      ConsumeByName = function - scripts/prefabs/container_classified.lua:629
+      IsEmpty = function - scripts/prefabs/container_classified.lua:115
+      event_listeners = table: 1FCA93F8
+      MoveItemFromHalfOfSlot = function - scripts/prefabs/container_classified.lua:540
+      PutOneOfActiveItemInSlot = function - scripts/prefabs/container_classified.lua:402
+      PutAllOfActiveItemInSlot = function - scripts/prefabs/container_classified.lua:414
+      _items = table: 1FCAA780
+      Has = function - scripts/prefabs/container_classified.lua:153
+      replica = table: 1FCA9290
+      OnEntityReplicated = function - scripts/prefabs/container_classified.lua:54
+      components = table: 1FCA94C0
+      spawntime = 853.16671116278
+scripts/mainfunctions.lua:565 in () ? (Lua) <564-566>
+   guid = 111607
+
+[00:16:59]: [string "scripts/prefabs/container_classified.lua"]:57: attempt to concatenate a table value
+LUA ERROR stack traceback:
+    scripts/prefabs/container_classified.lua:57 in (method) OnEntityReplicated (Lua) <54-67>
+    scripts/entityreplica.lua:82 in (method) ReplicateEntity (Lua) <74-84>
+    scripts/mainfunctions.lua:565 in () ? (Lua) <564-566>
+	
+[00:16:59]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:16:59]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:19:00]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:19:00]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:19:00]: Force aborting...
+[00:19:00]: [IPC] Sending signal... #00000A28
+[00:19:02]: [IPC] Unregistering handler for signal #000009F4
+[00:19:02]: [IPC] Unregistering handler for signal #0000083C
+[00:19:02]: [IPC] Unregistering handler for signal #00000A2C
+[00:19:02]: [IPC] Unregistering handler for signal #00000A30
+[00:19:02]: [IPC] Unregistering handler for signal #00000A24
+[00:19:02]: [IPC] Sending signal... #000004B8
+[00:19:03]: [IPC] Unregistering handler for signal #00000A14
+[00:19:03]: [IPC] Unregistering handler for signal #00000A08
+[00:19:03]: [IPC] Unregistering handler for signal #00000A10
+[00:19:03]: [IPC] Unregistering handler for signal #00000A1C
+[00:19:03]: [IPC] Unregistering handler for signal #0000049C
+[00:19:03]: [Connect] PendingConnection::Reset(true)
+[00:19:03]: PushNetworkDisconnectEvent With Reason: "ID_DISCONNECTION_NOTIFICATION", reset: true
+[00:19:03]: Serializing user: session/23931654FE820A95/A7IF3SS4DMTC/0000000001
+[00:19:03]: [Steam] Game Connection terminated (2130706433|10999)
+[00:19:03]: [Shard] Stopping shard mode
+[00:19:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:03]: Collecting garbage...
+[00:19:03]: lua_gc took 0.03 seconds
+[00:19:03]: ~ShardLuaProxy()
+[00:19:03]: ~cEventLeaderboardProxy()
+[00:19:03]: ~ItemServerLuaProxy()
+[00:19:03]: ~InventoryLuaProxy()
+[00:19:03]: ~NetworkLuaProxy()
+[00:19:03]: ~SimLuaProxy()
+[00:19:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:03]: lua_close took 0.05 seconds
+[00:19:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:19:03]: [Steam] Auth ticket cancelled
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:19:04]: CurlRequestManager::ClientThread::Main() complete
+[00:19:04]: HttpClient2 discarded 0 callbacks.
+[00:19:04]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.1ms!
+[00:19:04]: Shutting down

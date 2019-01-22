@@ -1,0 +1,300 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 58%
+	Available Physical Memory: 6705m/16287m
+	Available Page File: 9373m/50250m
+	Available Virtual Memory: 3947m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 264k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 5m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Sun Jan 06 15:47:56 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32_STEAM
+[00:00:00]: Build Date: 3673
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 3366554
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (115180)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip skipped.
+[00:00:00]: ProfileIndex:4.22
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (111052)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (116164)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198246628238
+[00:00:00]: SteamID: 76561198246628238
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Education
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-4702HQ CPU @ 2.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2201
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) HD Graphics 4600
+    driverDate                20160929000000.000000-000
+    megsOfRam                 1024
+    refreshRate               29
+    videoModeDescription      2048 x 1152 x 4294967296 colors
+    driverVersion             20.19.15.4531
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 4096,2179 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (-1 x 126)
+[00:00:01]:    Adjusted Window Pos (-14 x 68)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA Quadro K1100M)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (100804)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: Failed to communicate with routing cluster 'bom'.
+[00:00:02]: Failed to communicate with routing cluster 'ggru'.
+[00:00:02]: Failed to communicate with routing cluster 'ghel'.
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: WARNING loading modinfo.lua: Quantum-Chest specifies client_only_mod and all_clients_require_mod. These flags are mutually exclusive.	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	Quantum-Chest	
+[00:00:02]: Could not load mod_config_data/modconfiguration_Quantum-Chest	
+[00:00:02]: Loading mod: Quantum-Chest (Quantum Chest) Version:1.0	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: Quantum-Chest (Quantum Chest)	Loading modmain.lua	
+[00:00:02]: Communications with routing cluster 'bom' established.
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: Ping measurement completed
+[00:00:03]: Ping location: ord=17+1,atl=24+2,iad=24+2,okc=35+3/34+1,sea=73+7/62+1,lax=66+6/68+1,mwh=76+7/69+1,lhr=100+10/96+2,ams=102+10/102+2,fra=112+11/110+10,gru=131+13,sgp=237+23/236+16
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	5822	
+[00:00:04]: PlayerHistory loaded player_history (v2) len:4970	
+[00:00:04]: ServerPreferences loaded server_preferences	2	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: [string "scripts/mainfunctions.lua"]:150: Error loading file prefabs/hammer
+[string "scripts/prefabs/hammer.lua"]:53: ')' expected (to close '(' at line 51) near 'inst'
+LUA ERROR stack traceback:
+=[C]:-1 in (global) assert (C) <-1--1>
+scripts/mainfunctions.lua:150 in (global) LoadPrefabFile (Lua) <138-169>
+   filename = prefabs/hammer
+   async_batch_validation = true
+   fn = [string "scripts/prefabs/hammer.lua"]:53: ')' expected (to close '(' at line 51) near 'inst'
+   r = nil
+   error_msg = Error loading file prefabs/hammer
+[string "scripts/prefabs/hammer.lua"]:53: ')' expected (to close '(' at line 51) near 'inst'
+scripts/gamelogic.lua:224 in (upvalue) LoadAssets (Lua) <158-302>
+   asset_set = FRONTEND
+   savedata = nil
+   load_frontend = true
+   in_backend = false
+   in_frontend = true
+   async_batch_validation = true
+   i = 245
+   file = hammer
+scripts/gamelogic.lua:997 in (upvalue) DoResetAction (Lua) <917-1006>
+scripts/gamelogic.lua:1016 in (local) complete_callback (Lua) <1008-1017>
+scripts/upsell.lua:13 in (global) UpdateGamePurchasedState (Lua) <11-15>
+   complete_callback = function - scripts/gamelogic.lua:1008
+scripts/gamelogic.lua:1035 in (upvalue) callback (Lua) <1034-1036>
+scripts/mainfunctions.lua:21 in () ? (Lua) <18-23>
+=[C]:-1 in (method) SetPersistentString (C) <-1--1>
+scripts/mainfunctions.lua:24 in (global) SavePersistentString (Lua) <15-28>
+   name = profile
+   data = {"prodKU_GWmhv7olentitlement_PACK_ROG_GIFT":true,"unlocked_worldgen":[],"collection_timestamp":1546805120,"skin_presets":{"wathgrithr":[]},"device_caps_a":1546752390,"recipe_timestamps":{"reviver":1498202752,"treasurechest":0,"researchlab4":0,"tophat":0,"winterhat":1498202752,"backpack":1514619776},"characterskins":{"wes":{"last_base":"wes_none","wes_none":{"body":"body_buttons_white_ghost","legs":"legs_checkered_pleats_blue_cornflower","base":"wes_none","hand":"","feet":""}},"wendy":{"wendy_none":{"legs":"legs_checkered_pleats_blue_cornflower","feet":"feet_sneakers_green_cactus","base":"wendy_none","body":"body_trenchcoat_brown_fawn"},"last_base":"wendy_none"},"webber":{"webber_none":{"legs":"legs_pants_basic_grey_dark","feet":"feet_sneakers_green_cactus","base":"webber_none","body":"body_tweedvest_grey_steel"},"last_base":"webber_none"},"willow":{"willow_none":{"base":"willow_none"},"last_base":"willow_none"},"waxwell":{"last_base":"waxwell_none","waxwell_none":{"base":"waxwell_none"}},"wickerbottom":{"wick [**truncated**]
+   encode = true
+   callback = function - scripts/gamelogic.lua:1034
+   cb = function - scripts/mainfunctions.lua:18
+scripts/playerprofile.lua:807 in (method) Save (Lua) <803-811>
+   self =
+      persistdata = table: 1F7B0618
+      dirty = true
+   callback = function - scripts/gamelogic.lua:1034
+   str = {"prodKU_GWmhv7olentitlement_PACK_ROG_GIFT":true,"unlocked_worldgen":[],"collection_timestamp":1546805120,"skin_presets":{"wathgrithr":[]},"device_caps_a":1546752390,"recipe_timestamps":{"reviver":1498202752,"treasurechest":0,"researchlab4":0,"tophat":0,"winterhat":1498202752,"backpack":1514619776},"characterskins":{"wes":{"last_base":"wes_none","wes_none":{"body":"body_buttons_white_ghost","legs":"legs_checkered_pleats_blue_cornflower","base":"wes_none","hand":"","feet":""}},"wendy":{"wendy_none":{"legs":"legs_checkered_pleats_blue_cornflower","feet":"feet_sneakers_green_cactus","base":"wendy_none","body":"body_trenchcoat_brown_fawn"},"last_base":"wendy_none"},"webber":{"webber_none":{"legs":"legs_pants_basic_grey_dark","feet":"feet_sneakers_green_cactus","base":"webber_none","body":"body_tweedvest_grey_steel"},"last_base":"webber_none"},"willow":{"willow_none":{"base":"willow_none"},"last_base":"willow_none"},"waxwell":{"last_base":"waxwell_none","waxwell_none":{"base":"waxwell_none"}},"wickerbottom":{"wick [**truncated**]
+scripts/gamelogic.lua:1034 in (local) callback (Lua) <1019-1041>
+   host_sessions = table: 1F7B6540
+
+[00:00:06]: [string "scripts/mainfunctions.lua"]:150: Error loading file prefabs/hammer
+[string "scripts/prefabs/hammer.lua"]:53: ')' expected (to close '(' at line 51) near 'inst'
+LUA ERROR stack traceback:
+    =[C]:-1 in (global) assert (C) <-1--1>
+    scripts/mainfunctions.lua:150 in (global) LoadPrefabFile (Lua) <138-169>
+    scripts/gamelogic.lua:224 in (upvalue) LoadAssets (Lua) <158-302>
+    scripts/gamelogic.lua:997 in (upvalue) DoResetAction (Lua) <917-1006>
+    scripts/gamelogic.lua:1016 in (local) complete_callback (Lua) <1008-1017>
+    scripts/upsell.lua:13 in (global) UpdateGamePurchasedState (Lua) <11-15>
+    scripts/gamelogic.lua:1035 in (upvalue) callback (Lua) <1034-1036>
+    scripts/mainfunctions.lua:21 in () ? (Lua) <18-23>
+    =[C]:-1 in (method) SetPersistentString (C) <-1--1>
+    scripts/mainfunctions.lua:24 in (global) SavePersistentString (Lua) <15-28>
+    scripts/playerprofile.lua:807 in (method) Save (Lua) <803-811>
+    scripts/gamelogic.lua:1034 in (local) callback (Lua) <1019-1041>
+	
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:00:06]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:00:07]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:00:07]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:00:10]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:00:10]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:02:38]: Warning: Widget:SetFocusFromChild is happening on a widget outside of the screen/widget hierachy. This will cause focus moves to fail. Is 	ScriptErrorWidget	not a screen?	
+[00:02:38]: stack traceback:
+	scripts/widgets/widget.lua:602 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:621 in (method) SetFocusFromChild (Lua) <599-624>
+	scripts/widgets/widget.lua:649 in (method) SetFocus (Lua) <626-658>
+	scripts/widgets/scripterrorwidget.lua:107 in (method) OnUpdate (Lua) <102-119>
+	scripts/update.lua:90 in () ? (Lua) <33-129>	
+[00:02:38]: Force aborting...
+[00:02:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:38]: Collecting garbage...
+[00:02:38]: lua_gc took 0.02 seconds
+[00:02:38]: ~ShardLuaProxy()
+[00:02:38]: ~cEventLeaderboardProxy()
+[00:02:38]: ~ItemServerLuaProxy()
+[00:02:38]: ~InventoryLuaProxy()
+[00:02:38]: ~NetworkLuaProxy()
+[00:02:38]: ~SimLuaProxy()
+[00:02:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:38]: FilesExistAsyncThread aborted.
+[00:02:38]: lua_close took 0.03 seconds
+[00:02:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:39]: CurlRequestManager::ClientThread::Main() complete
+[00:02:39]: HttpClient2 discarded 0 callbacks.
+[00:02:39]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.7ms!
+[00:02:39]: Shutting down
